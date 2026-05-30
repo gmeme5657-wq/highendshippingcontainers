@@ -99,12 +99,4 @@ document.addEventListener('DOMContentLoaded', function() {
       this.reset();
     });
   }
-
-  // Container for responsive navbar
-  const container = document.createElement('style');
-  container.textContent = `.container { max-width: 1280px; margin: 0 auto; padding: 0 var(--space-lg); }
-  @media (max-width: 768px) { .container { padding: 0 var(--space-md); } }
-  @media (max-width: 480px) { .container { padding: 0 var(--space-sm); } }
-  .py-5 { padding-top: var(--space-4xl); padding-bottom: var(--space-4xl); }`;
-  document.head.appendChild(container);
 });
