@@ -354,9 +354,10 @@
 
   .nav-menu {
     display: flex;
-    flex-wrap: wrap;
-    gap: 12px 20px;
-    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 10px;
+    margin: 0 auto;
   }
 
   .nav-menu__link {
@@ -386,13 +387,21 @@
   }
 
   .nav-menu {
-    flex-wrap: wrap;
-    gap: 10px 15px;
-    justify-content: flex-start;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    row-gap: 10px;
+    width: 100%;
+  }
+
+  .nav-menu__item {
+    width: 100%;
   }
 
   .nav-menu__link {
     font-size: var(--text-xs);
     padding: var(--space-xs) 0;
+    width: 100%;
+    text-align: left;
   }
 }
