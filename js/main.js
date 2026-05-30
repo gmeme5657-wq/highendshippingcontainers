@@ -6,22 +6,28 @@ document.addEventListener('DOMContentLoaded', function() {
   const mobileMenuClose = document.getElementById('mobileMenuClose');
   const mobileMenuOverlay = document.getElementById('mobileMenuOverlay');
 
-  // MOBILE MENU START
+  // FIXED MOBILE MENU START
   if (mobileMenuToggle && mobileMenu && mobileMenuClose && mobileMenuOverlay) {
     const mobileMenuLinks = mobileMenu.querySelectorAll('.mobile-nav__link');
 
     const closeMobileMenu = () => {
       mobileMenuToggle.classList.remove('mobile-menu-toggle--active');
+      mobileMenuToggle.classList.remove('active');
       mobileMenu.classList.remove('mobile-menu--active');
+      mobileMenu.classList.remove('active');
       mobileMenuOverlay.classList.remove('mobile-menu__overlay--active');
+      mobileMenuOverlay.classList.remove('active');
       mobileMenuToggle.setAttribute('aria-expanded', 'false');
       mobileMenu.setAttribute('aria-hidden', 'true');
     };
 
     const openMobileMenu = () => {
       mobileMenuToggle.classList.add('mobile-menu-toggle--active');
+      mobileMenuToggle.classList.add('active');
       mobileMenu.classList.add('mobile-menu--active');
+      mobileMenu.classList.add('active');
       mobileMenuOverlay.classList.add('mobile-menu__overlay--active');
+      mobileMenuOverlay.classList.add('active');
       mobileMenuToggle.setAttribute('aria-expanded', 'true');
       mobileMenu.setAttribute('aria-hidden', 'false');
     };
@@ -42,12 +48,12 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 
     document.addEventListener('click', function(event) {
-      if (!mobileMenu.contains(event.target) && !mobileMenuToggle.contains(event.target) && mobileMenu.classList.contains('mobile-menu--active')) {
+      if (!mobileMenu.contains(event.target) && !mobileMenuToggle.contains(event.target) && mobileMenu.classList.contains('active')) {
         closeMobileMenu();
       }
     });
   }
-  // MOBILE MENU END
+  // FIXED MOBILE MENU END
 
   // Mobile submenu toggles
   const mobileNavItems = document.querySelectorAll('.mobile-nav__item');

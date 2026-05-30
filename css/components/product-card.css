@@ -82,6 +82,21 @@
   transition: opacity var(--transition-base);
 }
 
+/* FIXED IMAGE PATHS */
+.product-card__placeholder {
+  position: absolute;
+  inset: 0;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  padding: var(--space-md);
+  background-color: var(--color-light);
+  color: var(--color-mid);
+  font-size: var(--text-sm);
+  font-weight: var(--font-semibold);
+  text-align: center;
+}
+
 .product-card__image--hover {
   position: absolute;
   top: 0;

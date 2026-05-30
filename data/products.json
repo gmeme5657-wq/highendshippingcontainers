@@ -4234,7 +4234,7 @@
     "category": "10 FT Shipping Containers",
     "categorySlug": "10ft-containers",
     "images": [
-      "/images/container-001.jpg"
+      "images/container-001.jpg"
     ],
     "price": 4500,
     "priceRange": "$4,500\u2013$7,800",
@@ -4255,7 +4255,7 @@
     "category": "20 FT Shipping Containers",
     "categorySlug": "20ft-containers",
     "images": [
-      "/images/container-009.jpg"
+      "images/container-009.jpg"
     ],
     "price": 2000,
     "priceRange": "$2,000\u2013$6,000",
@@ -4276,7 +4276,7 @@
     "category": "40 FT Shipping Containers",
     "categorySlug": "40ft-containers",
     "images": [
-      "/images/container-003.jpg"
+      "images/container-003.jpg"
     ],
     "price": 2700,
     "priceRange": "$2,700\u2013$8,000",
@@ -4297,7 +4297,7 @@
     "category": "40 FT Shipping Containers",
     "categorySlug": "40ft-containers",
     "images": [
-      "/images/container-007.jpg"
+      "images/container-007.jpg"
     ],
     "price": 3000,
     "priceRange": "$3,000\u2013$8,800",
@@ -4318,7 +4318,7 @@
     "category": "Refrigerated Containers",
     "categorySlug": "refrigerated-containers",
     "images": [
-      "/images/container-008.jpg"
+      "images/container-008.jpg"
     ],
     "price": 9000,
     "priceRange": "$9,000\u2013$44,000+",
@@ -4339,7 +4339,7 @@
     "category": "Storage Solutions",
     "categorySlug": "storage-solutions",
     "images": [
-      "/images/container-002.jpg"
+      "images/container-002.jpg"
     ],
     "price": 5200,
     "onSale": false,
@@ -4359,7 +4359,7 @@
     "category": "Shipping Containers",
     "categorySlug": "shipping-containers",
     "images": [
-      "/images/container-004.jpg"
+      "images/container-004.jpg"
     ],
     "price": 3800,
     "onSale": false,
@@ -4379,7 +4379,7 @@
     "category": "Storage Solutions",
     "categorySlug": "storage-solutions",
     "images": [
-      "/images/container-005.jpg"
+      "images/container-005.jpg"
     ],
     "price": 4100,
     "onSale": false,
@@ -4399,7 +4399,7 @@
     "category": "Specialized Containers",
     "categorySlug": "specialized-containers",
     "images": [
-      "/images/container-006.jpg"
+      "images/container-006.jpg"
     ],
     "price": 6500,
     "onSale": false,
@@ -4419,7 +4419,7 @@
     "category": "Mobile Storage",
     "categorySlug": "mobile-storage",
     "images": [
-      "/images/container-010.jpg"
+      "images/container-010.jpg"
     ],
     "price": 3200,
     "onSale": false,
@@ -4439,7 +4439,7 @@
     "category": "Specialized Containers",
     "categorySlug": "specialized-containers",
     "images": [
-      "/images/container-011.jpg"
+      "images/container-011.jpg"
     ],
     "price": 7200,
     "onSale": false,

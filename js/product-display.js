@@ -54,7 +54,8 @@ class ProductDisplay {
       const product = this.products.find(p => p.categorySlug === box.dataset.categorySlug && p.images?.[0]);
       const image = box.querySelector('.category-box__image');
       if (product && image) {
-        image.src = product.images[0];
+        const imageUrl = product.images[0].startsWith('/images/') ? product.images[0].slice(1) : product.images[0];
+        image.src = imageUrl;
         image.alt = product.category;
       }
     });
@@ -114,8 +115,9 @@ class ProductDisplay {
 
   createProductCard(product) {
     const stars = this.createStars(product.rating || 4);
-    const image = product.images?.[0] || 'https://cdn.shopify.com/s/files/1/0699/7688/3279/files/353-20ft-Used-Container-960x640-1-600x400-1.jpg?v=1773684567';
-    const hoverImage = product.images?.[1];
+    const normalizeImagePath = src => src && src.startsWith('/images/') ? src.slice(1) : src;
+    const image = normalizeImagePath(product.images?.[0]) || 'https://cdn.shopify.com/s/files/1/0699/7688/3279/files/353-20ft-Used-Container-960x640-1-600x400-1.jpg?v=1773684567';
+    const hoverImage = normalizeImagePath(product.images?.[1]);
     const priceLabel = product.price > 0 ? `$${product.price.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 })}` : 'Contact for price';
     const canAddToCart = product.inStock && product.price > 0;
     const name = this.escapeHtml(product.name);
@@ -130,8 +132,9 @@ class ProductDisplay {
           ${product.featured ? '<span class="product-card__badge product-card__badge--featured">Featured</span>' : ''}
         </div>
         <a class="product-card__image-wrapper" href="${productUrl}" aria-label="View details for ${name}">
-          <img src="${image}" alt="${name}" class="product-card__image">
-          ${hoverImage ? `<img src="${hoverImage}" alt="${name}" class="product-card__image--hover">` : ''}
+          <img src="${image}" alt="${name}" class="product-card__image" loading="lazy" onerror="this.style.display='none'; const placeholder = this.closest('.product-card__image-wrapper').querySelector('.product-card__placeholder'); if (placeholder) placeholder.style.display='flex';">
+          <div class="product-card__placeholder">Container Image</div>
+          ${hoverImage ? `<img src="${hoverImage}" alt="${name}" class="product-card__image--hover" loading="lazy" onerror="this.style.display='none';">` : ''}
           <span class="product-card__actions">
             <span class="product-card__action-btn" title="Quick View" aria-hidden="true">
               <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
