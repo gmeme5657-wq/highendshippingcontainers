@@ -183,13 +183,8 @@ img, picture, video, svg {
   height: 64px;
   margin: 0 auto var(--space-lg);
   padding: var(--space-md);
-  color: #C2410C;
-  background: #FFEDD5;
-  border-radius: var(--radius-2xl);
-}
-
-.feature-card__title {
-  font-size: var(--text-lg);
+  color: var(--color-accent);
+  background: rgba(76, 125, 255, 0.14);
   margin-bottom: var(--space-md);
   font-family: var(--font-heading);
   color: var(--color-primary);
@@ -271,6 +266,74 @@ img, picture, video, svg {
   margin-bottom: 0;
   font-family: var(--font-heading);
   font-weight: 900;
+}
+
+.page-thumbnails {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--space-lg);
+  margin-top: var(--space-2xl);
+}
+
+@media (min-width: 768px) {
+  .page-thumbnails {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+.page-thumbnail-card {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--color-white);
+  border-radius: var(--radius-2xl);
+  overflow: hidden;
+  text-decoration: none;
+  color: inherit;
+  box-shadow: var(--shadow-md);
+  transition: transform var(--transition-base), box-shadow var(--transition-base);
+}
+
+.page-thumbnail-card:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-lg);
+}
+
+.page-thumbnail-card__image {
+  width: 100%;
+  aspect-ratio: 16 / 10;
+  object-fit: cover;
+  object-position: center;
+}
+
+.page-thumbnail-card__body {
+  padding: var(--space-lg);
+}
+
+.page-thumbnail-card__eyebrow {
+  display: inline-flex;
+  padding: 6px 12px;
+  margin-bottom: var(--space-sm);
+  background-color: rgba(76, 125, 255, 0.12);
+  color: var(--color-accent);
+  border-radius: 999px;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.page-thumbnail-card__title {
+  margin: 0 0 var(--space-sm);
+  font-size: 1.1rem;
+  font-family: var(--font-heading);
+  font-weight: 800;
+  color: var(--color-primary);
+}
+
+.page-thumbnail-card__text {
+  color: var(--color-mid);
+  font-size: 0.95rem;
+  line-height: var(--leading-relaxed);
 }
 
 /* Testimonials */

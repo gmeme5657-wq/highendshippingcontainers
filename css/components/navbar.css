@@ -32,7 +32,7 @@
   color: var(--color-white);
   background-color: var(--color-dark);
   letter-spacing: 0.02em;
-  animation: ticker-scroll 20s linear infinite;
+  animation: ticker-scroll 35s linear infinite;
 }
 
 .header__inner {
