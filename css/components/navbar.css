@@ -355,6 +355,27 @@
     gap: var(--space-md);
   }
 
+  /* Use a container ship photo as the header background on mobile */
+  .header {
+    background-color: transparent;
+    background-image: url("../../images/containerpage.jpg");
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+    color: var(--color-white);
+  }
+
+  /* Ensure links and logo are readable over the image */
+  .nav-menu__link {
+    color: var(--color-white);
+    text-shadow: 0 1px 0 rgba(0,0,0,0.6);
+  }
+
+  .header__logo-text {
+    color: var(--color-white);
+    text-shadow: 0 1px 0 rgba(0,0,0,0.6);
+  }
+
   .header__nav {
     order: 1;
     width: 100%;
