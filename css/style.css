@@ -23,6 +23,20 @@
    Page-Specific Styles
    ============================================ */
 
+/* Mobile / accessibility helpers */
+html {
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+}
+
+/* Ensure media elements scale down on small screens */
+img, picture, video, svg {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+
 /* Section Title */
 .section-title {
   font-family: var(--font-heading);
