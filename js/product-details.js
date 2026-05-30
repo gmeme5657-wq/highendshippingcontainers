@@ -10,7 +10,7 @@ class ProductDetailsPage {
 
   async init() {
     try {
-      const response = await fetch('/data/products.json');
+      const response = await fetch('./data/products.json');
       this.products = await response.json();
       const id = this.getProductId();
       this.product = this.products.find(product => String(product.id) === String(id));
@@ -29,7 +29,7 @@ class ProductDetailsPage {
         <div class="product-page__empty">
           <h1>Unable to load product</h1>
           <p>Please refresh the page or return to the shop.</p>
-          <a href="/shop.html" class="btn btn--primary">Back to Shop</a>
+          <a href="./shop.html" class="btn btn--primary">Back to Shop</a>
         </div>
       `;
     }
@@ -56,9 +56,9 @@ class ProductDetailsPage {
 
     this.root.innerHTML = `
       <nav class="product-page__breadcrumb">
-        <a href="/">Home</a>
+        <a href="./">Home</a>
         <span>/</span>
-        <a href="/shop.html">Shop</a>
+        <a href="./shop.html">Shop</a>
         <span>/</span>
         <span>${this.escapeHtml(product.name)}</span>
       </nav>
@@ -88,7 +88,7 @@ class ProductDetailsPage {
             <h2 class="products-section__title">Related Products</h2>
             <p class="products-section__subtitle">More options in ${this.escapeHtml(product.category)}</p>
           </div>
-          <a href="/shop.html?cat=${encodeURIComponent(product.categorySlug)}" class="products-section__link">View category</a>
+          <a href="./shop.html?cat=${encodeURIComponent(product.categorySlug)}" class="products-section__link">View category</a>
         </div>
         <div class="product-grid">
           ${related.map(item => productDisplay.createProductCard(item)).join('')}
@@ -242,7 +242,7 @@ class ProductDetailsPage {
 
       if (event.target.closest('#productBuyNow')) {
         this.addCurrentProductToCart(false);
-        window.location.href = '/cart.html';
+        window.location.href = './cart.html';
       }
     });
   }
@@ -263,7 +263,7 @@ class ProductDetailsPage {
       <div class="product-page__empty">
         <h1>Product not found</h1>
         <p>The product you are looking for may have moved or is no longer available.</p>
-        <a href="/shop.html" class="btn btn--primary">Back to Shop</a>
+        <a href="./shop.html" class="btn btn--primary">Back to Shop</a>
       </div>
     `;
   }

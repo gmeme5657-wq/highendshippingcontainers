@@ -122,7 +122,7 @@ class ProductDisplay {
     const canAddToCart = product.inStock && product.price > 0;
     const name = this.escapeHtml(product.name);
     const category = this.escapeHtml(product.category);
-    const productUrl = `/product.html?id=${encodeURIComponent(product.id)}`;
+    const productUrl = `./product.html?id=${encodeURIComponent(product.id)}`;
 
     return `
       <div class="product-card ${!product.inStock ? 'product-card--out-of-stock' : ''}" data-product data-product-id="${product.id}" data-product-name="${name}" data-product-price="${product.price}" data-product-image="${image}">
@@ -207,7 +207,7 @@ document.addEventListener('DOMContentLoaded', function() {
     searchInput.addEventListener('keydown', function(e) {
       if (e.key === 'Enter') {
         const query = this.value;
-        window.location.href = `/shop.html?search=${encodeURIComponent(query)}`;
+        window.location.href = `./shop.html?search=${encodeURIComponent(query)}`;
       }
     });
   }
@@ -215,6 +215,6 @@ document.addEventListener('DOMContentLoaded', function() {
   document.addEventListener('click', function(e) {
     const card = e.target.closest('.product-card[data-product]');
     if (!card || e.target.closest('a, button')) return;
-    window.location.href = `/product.html?id=${encodeURIComponent(card.dataset.productId)}`;
+    window.location.href = `./product.html?id=${encodeURIComponent(card.dataset.productId)}`;
   });
 });

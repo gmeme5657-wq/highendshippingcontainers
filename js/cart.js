@@ -119,7 +119,7 @@ class ShoppingCart {
         <div class="cart-empty">
           <h2>Your cart is ready for containers.</h2>
           <p>Browse available units and add products to request checkout support.</p>
-          <a href="/shop.html" class="btn btn--primary">Continue Shopping</a>
+          <a href="./shop.html" class="btn btn--primary">Continue Shopping</a>
         </div>
       `;
       return;
