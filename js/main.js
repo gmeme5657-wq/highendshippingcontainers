@@ -6,22 +6,48 @@ document.addEventListener('DOMContentLoaded', function() {
   const mobileMenuClose = document.getElementById('mobileMenuClose');
   const mobileMenuOverlay = document.getElementById('mobileMenuOverlay');
 
-  if (mobileMenuToggle) {
+  // MOBILE MENU START
+  if (mobileMenuToggle && mobileMenu && mobileMenuClose && mobileMenuOverlay) {
+    const mobileMenuLinks = mobileMenu.querySelectorAll('.mobile-nav__link');
+
+    const closeMobileMenu = () => {
+      mobileMenuToggle.classList.remove('mobile-menu-toggle--active');
+      mobileMenu.classList.remove('mobile-menu--active');
+      mobileMenuOverlay.classList.remove('mobile-menu__overlay--active');
+      mobileMenuToggle.setAttribute('aria-expanded', 'false');
+      mobileMenu.setAttribute('aria-hidden', 'true');
+    };
+
+    const openMobileMenu = () => {
+      mobileMenuToggle.classList.add('mobile-menu-toggle--active');
+      mobileMenu.classList.add('mobile-menu--active');
+      mobileMenuOverlay.classList.add('mobile-menu__overlay--active');
+      mobileMenuToggle.setAttribute('aria-expanded', 'true');
+      mobileMenu.setAttribute('aria-hidden', 'false');
+    };
+
     mobileMenuToggle.addEventListener('click', function() {
-      mobileMenuToggle.classList.toggle('mobile-menu-toggle--active');
-      mobileMenu.classList.toggle('mobile-menu--active');
+      if (mobileMenu.classList.contains('mobile-menu--active')) {
+        closeMobileMenu();
+      } else {
+        openMobileMenu();
+      }
     });
 
-    mobileMenuClose.addEventListener('click', function() {
-      mobileMenuToggle.classList.remove('mobile-menu-toggle--active');
-      mobileMenu.classList.remove('mobile-menu--active');
+    mobileMenuClose.addEventListener('click', closeMobileMenu);
+    mobileMenuOverlay.addEventListener('click', closeMobileMenu);
+
+    mobileMenuLinks.forEach(link => {
+      link.addEventListener('click', closeMobileMenu);
     });
 
-    mobileMenuOverlay.addEventListener('click', function() {
-      mobileMenuToggle.classList.remove('mobile-menu-toggle--active');
-      mobileMenu.classList.remove('mobile-menu--active');
+    document.addEventListener('click', function(event) {
+      if (!mobileMenu.contains(event.target) && !mobileMenuToggle.contains(event.target) && mobileMenu.classList.contains('mobile-menu--active')) {
+        closeMobileMenu();
+      }
     });
   }
+  // MOBILE MENU END
 
   // Mobile submenu toggles
   const mobileNavItems = document.querySelectorAll('.mobile-nav__item');

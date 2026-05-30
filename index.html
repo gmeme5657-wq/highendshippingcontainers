@@ -89,27 +89,28 @@
             <span class="header__cart-count" data-count="0">0</span>
           </a>
         </div>
-        <button class="mobile-menu-toggle" id="mobileMenuToggle" aria-label="Open menu"><span></span><span></span><span></span></button>
+        <button class="mobile-menu-toggle" id="mobileMenuToggle" aria-label="Open menu" aria-expanded="false"><span></span><span></span><span></span></button>
       </div>
+
+      <!-- MOBILE MENU START -->
+      <div class="mobile-menu" id="mobileMenu" aria-hidden="true">
+        <div class="mobile-menu__header">
+          <span class="mobile-menu__logo">Highend Shipping Containers</span>
+          <button class="mobile-menu__close" id="mobileMenuClose" aria-label="Close menu">×</button>
+        </div>
+        <nav class="mobile-menu__nav" aria-label="Mobile navigation">
+          <ul class="mobile-nav">
+            <li class="mobile-nav__item"><a href="./" class="mobile-nav__link">Home</a></li>
+            <li class="mobile-nav__item"><a href="./shop.html" class="mobile-nav__link">Shop</a></li>
+            <li class="mobile-nav__item"><a href="./policies/privacy.html" class="mobile-nav__link">Policy</a></li>
+            <li class="mobile-nav__item"><a href="./contact.html" class="mobile-nav__link">Contact</a></li>
+          </ul>
+        </nav>
+      </div>
+      <div class="mobile-menu__overlay" id="mobileMenuOverlay"></div>
+      <!-- MOBILE MENU END -->
     </div>
   </header>
-
-  <div class="mobile-menu" id="mobileMenu">
-    <div class="mobile-menu__header">
-      <span class="mobile-menu__logo">Highend Shipping Containers</span>
-      <span class="mobile-menu__close" id="mobileMenuClose">x</span>
-    </div>
-    <nav class="mobile-menu__nav">
-      <ul class="mobile-nav">
-        <li class="mobile-nav__item"><a href="./" class="mobile-nav__link">Home</a></li>
-        <li class="mobile-nav__item"><a href="./shop.html" class="mobile-nav__link">Shop</a></li>
-        <li class="mobile-nav__item"><a href="./about.html" class="mobile-nav__link">About</a></li>
-        <li class="mobile-nav__item"><a href="./policies/privacy.html" class="mobile-nav__link">Policies</a></li>
-        <li class="mobile-nav__item"><a href="./contact.html" class="mobile-nav__link">Contact</a></li>
-      </ul>
-    </nav>
-  </div>
-  <div class="mobile-menu__overlay" id="mobileMenuOverlay"></div>
 
   <div class="search-overlay" id="searchOverlay">
     <form class="search-overlay__form">

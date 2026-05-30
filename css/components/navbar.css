@@ -356,8 +356,8 @@
   display: none;
 }
 
-/* Responsive */
-@media (max-width: 1024px) {
+/* MOBILE MENU START */
+@media (max-width: 768px) {
   .header__nav {
     display: none;
   }
@@ -367,38 +367,40 @@
   }
 
   .mobile-menu {
-    display: block;
-    position: fixed;
-    top: 0;
-    right: -100%;
-    width: 80%;
-    max-width: 400px;
-    height: 100vh;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    z-index: calc(var(--z-fixed) + 1);
     background-color: var(--color-white);
-    box-shadow: var(--shadow-2xl);
-    z-index: var(--z-fixed);
-    overflow-y: auto;
-    transition: right var(--transition-base);
+    border-bottom: 1px solid var(--color-light);
+    overflow: hidden;
+    max-height: 0;
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(-10px);
+    transition: max-height 250ms ease, opacity 250ms ease, transform 250ms ease;
+    box-shadow: 0 18px 50px rgba(15, 23, 42, 0.12);
   }
 
   .mobile-menu--active {
-    right: 0;
+    max-height: 320px;
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
   }
 
   .mobile-menu__overlay {
     position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background-color: rgba(0, 0, 0, 0.5);
-    z-index: calc(var(--z-fixed) - 1);
+    inset: 0;
+    background-color: rgba(0, 0, 0, 0.32);
+    z-index: var(--z-fixed);
     opacity: 0;
     visibility: hidden;
-    transition: all var(--transition-base);
+    transition: opacity 250ms ease, visibility 250ms ease;
   }
 
-  .mobile-menu--active + .mobile-menu__overlay {
+  .mobile-menu__overlay--active {
     opacity: 1;
     visibility: visible;
   }
@@ -407,8 +409,15 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
+    gap: var(--space-md);
     padding: var(--space-md);
-    border-bottom: 1px solid var(--color-light);
+  }
+
+  .mobile-menu__logo {
+    font-family: var(--font-heading);
+    font-size: var(--text-base);
+    font-weight: 900;
+    color: var(--color-primary);
   }
 
   .mobile-menu__close {
@@ -419,11 +428,18 @@
     justify-content: center;
     font-size: var(--text-2xl);
     color: var(--color-dark);
+    background: transparent;
+    border: none;
     cursor: pointer;
   }
 
   .mobile-menu__nav {
-    padding: var(--space-md);
+    padding: 0 var(--space-md) var(--space-md);
+  }
+
+  .mobile-nav {
+    display: grid;
+    gap: var(--space-xs);
   }
 
   .mobile-nav__item {
@@ -431,68 +447,24 @@
   }
 
   .mobile-nav__link {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
+    display: block;
+    width: 100%;
     padding: var(--space-md) 0;
     font-family: var(--font-heading);
     font-size: var(--text-base);
-    font-weight: var(--font-semibold);
+    font-weight: 700;
     color: var(--color-dark);
+    text-decoration: none;
     text-transform: uppercase;
     letter-spacing: var(--tracking-wide);
   }
 
-  .mobile-nav__toggle {
-    width: 40px;
-    height: 40px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    color: var(--color-mid);
-  }
-
-  .mobile-nav__toggle svg {
-    width: 16px;
-    height: 16px;
-    transition: transform var(--transition-fast);
-  }
-
-  .mobile-nav__item--open .mobile-nav__toggle svg {
-    transform: rotate(180deg);
-  }
-
-  .mobile-nav__submenu {
-    max-height: 0;
-    overflow: hidden;
-    transition: max-height var(--transition-base);
-  }
-
-  .mobile-nav__item--open .mobile-nav__submenu {
-    max-height: 500px;
-  }
-
-  .mobile-nav__submenu .mobile-nav__link {
-    font-size: var(--text-sm);
-    text-transform: none;
-    padding-left: var(--space-lg);
-  }
-
-  .mobile-menu__actions {
-    display: flex;
-    align-items: center;
-    gap: var(--space-md);
-    padding: var(--space-md);
-    border-top: 1px solid var(--color-light);
-  }
-
-  .mobile-menu__actions .header__search-btn,
-  .mobile-menu__actions .header__login,
-  .mobile-menu__actions .header__cart {
-    width: 48px;
-    height: 48px;
+  .mobile-nav__link:hover,
+  .mobile-nav__link:focus {
+    color: var(--color-accent);
   }
 }
+/* MOBILE MENU END */
 
 @media (max-width: 480px) {
   .header__inner {
