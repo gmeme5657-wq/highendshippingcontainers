@@ -29,7 +29,7 @@
   align-items: center;
   white-space: nowrap;
   overflow: hidden;
-  padding-left: var(--space-md);
+  padding-left: 132px;
   font-size: 0.84rem;
   line-height: 40px;
   color: var(--color-white);
@@ -38,14 +38,29 @@
   box-sizing: border-box;
   pointer-events: none;
   animation: ticker-scroll 55s linear infinite;
+  z-index: 2;
 }
 
 .header__inner {
+  position: relative;
+  z-index: 3;
   display: flex;
   align-items: center;
   justify-content: space-between;
   padding: var(--space-lg) 0;
   gap: var(--space-lg);
+}
+
+.header__inner::before {
+  content: "";
+  position: absolute;
+  top: -40px;
+  left: -20px;
+  width: 150px;
+  height: 40px;
+  background: linear-gradient(90deg, var(--color-dark) 0%, var(--color-dark) 70%, rgba(15, 23, 42, 0) 100%);
+  pointer-events: none;
+  z-index: 2;
 }
 
 @keyframes ticker-scroll {
@@ -76,14 +91,21 @@
 }
 
 .header__logo-mark {
-  width: 72px;
-  height: 42px;
+  position: absolute;
+  top: -36px;
+  left: 0;
+  width: 86px;
+  height: 32px;
   object-fit: contain;
-  padding: 4px 8px;
-  background-color: rgba(255, 255, 255, 0.94);
-  border-radius: var(--radius-md);
-  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
+  padding: 0;
+  background-color: transparent;
+  border-radius: 0;
+  box-shadow: none;
+  filter: invert(1) brightness(1.8) drop-shadow(0 1px 2px rgba(0, 0, 0, 0.3));
   flex-shrink: 0;
+  opacity: 0.94;
+  pointer-events: none;
+  z-index: 3;
 }
 
 .header__logo-text {
@@ -410,10 +432,9 @@
   }
 
   /* Ensure header content sits above overlay */
-  .header__inner,
-  .header__inner * {
+  .header__inner {
     position: relative;
-    z-index: 1;
+    z-index: 3;
   }
 
   .header__actions svg,
@@ -480,9 +501,9 @@
   }
 
   .header__logo-mark {
-    width: 58px;
-    height: 34px;
-    padding: 3px 6px;
+    top: -34px;
+    width: 70px;
+    height: 28px;
   }
 
   .header__logo-icon {
