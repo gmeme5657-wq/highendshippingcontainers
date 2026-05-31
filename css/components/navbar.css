@@ -37,7 +37,7 @@
   letter-spacing: 0.02em;
   box-sizing: border-box;
   pointer-events: none;
-  animation: ticker-scroll 55s linear infinite;
+  animation: ticker-scroll 24s linear infinite;
   z-index: 2;
 }
 
@@ -62,8 +62,7 @@
 
 @media (max-width: 767px) {
   .header::before {
-    /* Ensure the ticker speed is consistent on mobile */
-    animation: ticker-scroll 55s linear infinite;
+    animation: ticker-scroll 14s linear infinite;
   }
 }
 
