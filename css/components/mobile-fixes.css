@@ -269,6 +269,26 @@ body {
   line-height: 1.6;
 }
 
+/* Mobile: let header scroll with page and hide ticker to avoid touch interception */
+@media (max-width: 767px) {
+  .header {
+    position: static !important;
+    top: auto !important;
+    z-index: auto !important;
+  }
+
+  /* Remove the pseudo-element ticker on small screens so touches pass through */
+  .header::before {
+    display: none !important;
+    pointer-events: none !important;
+  }
+
+  /* Keep topbar hidden on smaller devices for cleanliness */
+  .topbar {
+    display: none !important;
+  }
+}
+
 section {
   margin-bottom: 40px;
 }
