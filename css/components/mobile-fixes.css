@@ -289,6 +289,36 @@ body {
   }
 }
 
+/* Additional mobile relaxations: disable floating controls that can block swiping */
+@media (max-width: 767px) {
+  /* Hide the back-to-top floating button on mobile */
+  .back-to-top {
+    display: none !important;
+    position: static !important;
+    pointer-events: none !important;
+  }
+
+  /* Hide transient cart notifications that may intercept touches */
+  .cart-toast,
+  .cart-toast--visible {
+    display: none !important;
+    position: static !important;
+    transform: none !important;
+    pointer-events: none !important;
+  }
+
+  /* Make sidebar panel height adaptive instead of full viewport to avoid locking scroll when open */
+  .shop-sidebar__panel {
+    height: auto !important;
+    max-height: 80vh !important;
+    left: 0 !important;
+  }
+
+  .shop-sidebar__overlay {
+    touch-action: auto !important;
+  }
+}
+
 section {
   margin-bottom: 40px;
 }
