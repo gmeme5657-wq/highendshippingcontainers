@@ -90,7 +90,7 @@
 }
 
 .shop-layout__sidebar {
-  display: none;
+  display: block;
 }
 
 @media (min-width: 1024px) {
