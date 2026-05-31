@@ -37,7 +37,7 @@
   letter-spacing: 0.02em;
   box-sizing: border-box;
   pointer-events: none;
-  animation: ticker-scroll 18s linear infinite;
+  animation: ticker-scroll 35s linear infinite;
 }
 
 .header__inner {

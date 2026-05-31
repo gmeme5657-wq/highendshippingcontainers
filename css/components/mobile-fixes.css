@@ -277,12 +277,6 @@ body {
     z-index: auto !important;
   }
 
-  /* Remove the pseudo-element ticker on small screens so touches pass through */
-  .header::before {
-    display: none !important;
-    pointer-events: none !important;
-  }
-
   /* Keep topbar hidden on smaller devices for cleanliness */
   .topbar {
     display: none !important;
