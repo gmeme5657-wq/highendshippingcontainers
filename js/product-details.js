@@ -88,7 +88,7 @@ class ProductDetailsPage {
             <h2 class="products-section__title">Related Products</h2>
             <p class="products-section__subtitle">More options in ${this.escapeHtml(product.category)}</p>
           </div>
-          <a href="./shop.html?cat=${encodeURIComponent(product.categorySlug)}" class="products-section__link">View category</a>
+          <a href="./shop.html?cat=${encodeURIComponent(product.categorySlug)}#shopProducts" class="products-section__link">View category</a>
         </div>
         <div class="product-grid">
           ${related.map(item => productDisplay.createProductCard(item)).join('')}
