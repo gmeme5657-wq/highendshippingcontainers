@@ -29,7 +29,7 @@
   align-items: center;
   white-space: nowrap;
   overflow: hidden;
-  padding-left: 132px;
+  padding-left: var(--space-md);
   font-size: 0.84rem;
   line-height: 40px;
   color: var(--color-white);
@@ -49,18 +49,6 @@
   justify-content: space-between;
   padding: var(--space-lg) 0;
   gap: var(--space-lg);
-}
-
-.header__inner::before {
-  content: "";
-  position: absolute;
-  top: -40px;
-  left: -20px;
-  width: 150px;
-  height: 40px;
-  background: linear-gradient(90deg, var(--color-dark) 0%, var(--color-dark) 70%, rgba(15, 23, 42, 0) 100%);
-  pointer-events: none;
-  z-index: 2;
 }
 
 @keyframes ticker-scroll {
@@ -88,24 +76,6 @@
   display: flex;
   align-items: center;
   gap: var(--space-sm);
-}
-
-.header__logo-mark {
-  position: absolute;
-  top: -36px;
-  left: 0;
-  width: 86px;
-  height: 32px;
-  object-fit: contain;
-  padding: 0;
-  background-color: transparent;
-  border-radius: 0;
-  box-shadow: none;
-  filter: invert(1) brightness(1.8) drop-shadow(0 1px 2px rgba(0, 0, 0, 0.3));
-  flex-shrink: 0;
-  opacity: 0.94;
-  pointer-events: none;
-  z-index: 3;
 }
 
 .header__logo-text {
@@ -498,12 +468,6 @@
 
   .header__logo-text {
     font-size: var(--text-lg);
-  }
-
-  .header__logo-mark {
-    top: -34px;
-    width: 70px;
-    height: 28px;
   }
 
   .header__logo-icon {
