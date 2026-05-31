@@ -449,7 +449,7 @@
   }
 
   .header__logo-link {
-    justify-content: center;
+    justify-content: flex-start;
   }
 
   .header__actions {
