@@ -10,20 +10,13 @@
   font-size: var(--text-sm);
 }
 
-.topbar__inner {
+/* Topbar content wrapper */
+.topbar__content {
   display: flex;
   align-items: center;
   justify-content: space-between;
   flex-wrap: wrap;
   gap: var(--space-sm);
-}
-
-/* Left side - Social & Contact */
-.topbar__left {
-  display: flex;
-  align-items: center;
-  gap: var(--space-lg);
-  flex-wrap: wrap;
 }
 
 /* Social Icons */
@@ -68,6 +61,14 @@
   align-items: center;
   gap: var(--space-md);
   flex-wrap: wrap;
+  min-width: 0;
+}
+
+.topbar__link,
+.topbar__text {
+  min-width: 0;
+  word-break: break-word;
+  overflow-wrap: anywhere;
 }
 
 .topbar__link {
@@ -170,22 +171,18 @@
 
 /* Responsive */
 @media (max-width: 768px) {
-  .topbar__inner {
+  .topbar__content {
     justify-content: center;
     text-align: center;
   }
 
-  .topbar__left,
-  .topbar__right {
+  .topbar__info {
     justify-content: center;
   }
 
-  .topbar__contact {
-    gap: var(--space-sm);
-  }
-
-  .topbar__contact-item span:not(.topbar__contact-icon) {
-    display: none;
+  .topbar__link,
+  .topbar__text {
+    white-space: normal;
   }
 }
 

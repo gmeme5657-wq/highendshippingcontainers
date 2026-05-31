@@ -17,11 +17,12 @@
 }
 
 .header::before {
-  content: "Phone: +61 480089621   •   Email: highendshippingcontainers@gmail.com   •   Phone: +61 480089621   •   Email: highendshippingcontainers@gmail.com   •   Phone: +61 480089621   •   Email: highendshippingcontainers@gmail.com";
+  content: "Phone: +61 480089621   •   Email: highendshippingcontainers@gmail.com   •   Sydney, Australia   •   Phone: +61 480089621   •   Email: highendshippingcontainers@gmail.com   •   Sydney, Australia";
   position: absolute;
   top: 0;
   left: 0;
   width: 100%;
+  min-width: 200%;
   height: 40px;
   display: flex;
   align-items: center;
@@ -29,10 +30,12 @@
   overflow: hidden;
   padding-left: var(--space-md);
   font-size: 0.84rem;
+  line-height: 40px;
   color: var(--color-white);
   background-color: var(--color-dark);
   letter-spacing: 0.02em;
-  animation: ticker-scroll 35s linear infinite;
+  box-sizing: border-box;
+  animation: ticker-scroll 18s linear infinite;
 }
 
 .header__inner {
