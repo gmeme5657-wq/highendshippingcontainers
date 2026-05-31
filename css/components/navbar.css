@@ -12,7 +12,8 @@
   border-bottom: 1px solid rgba(226, 232, 240, 0.9);
   box-shadow: var(--shadow-sm);
   backdrop-filter: blur(16px);
-  overflow: hidden;
+  overflow-x: hidden;
+  overflow-y: visible;
   padding-top: 40px;
 }
 
@@ -35,6 +36,7 @@
   background-color: var(--color-dark);
   letter-spacing: 0.02em;
   box-sizing: border-box;
+  pointer-events: none;
   animation: ticker-scroll 18s linear infinite;
 }
 

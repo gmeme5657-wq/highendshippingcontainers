@@ -28,6 +28,11 @@
 html {
   font-size: var(--body-font-size-mobile);
   scroll-behavior: smooth;
+  min-height: 100%;
+  overflow-x: hidden;
+  overflow-y: auto;
+  touch-action: pan-y;
+  -webkit-overflow-scrolling: touch;
 }
 
 body {
@@ -37,6 +42,7 @@ body {
   color: var(--color-dark);
   background-color: var(--color-white);
   min-height: 100vh;
+  overscroll-behavior-y: auto;
 }
 
 @media (min-width: 1024px) {
