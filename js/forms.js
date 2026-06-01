@@ -1,8 +1,8 @@
-/* Both emails receive orders via Gmail forwarding. Main = highendshippingcontainers@gmail.com
-   Formspree form is configured to send to: highendshippingcontainers@gmail.com (set in Formspree dashboard) */
+/* Formspree form sends contact submissions to the configured endpoint.
+   Hidden _cc is included in the HTML form, so both emails can receive the message. */
 
-// Formspree endpoint — sends contact/quote submissions to highendshippingcontainers@gmail.com
-const FORMSPREE_URL = "https://formspree.io/f/xppgntuy";
+// Formspree endpoint — active team account form ID
+const FORMSPREE_URL = "https://formspree.io/f/mgoqjrbn";
 // WhatsApp number for instant chat (no leading +)
 const YOUR_WHATSAPP = "61480089621"; // From +61 480089621
 
@@ -45,13 +45,19 @@ function handleForm(formId, type) {
       message = `New Quote Request from HighendContainers\nProduct: ${data.get('product')}\nQty: ${qty}\nTotal: $${total.toFixed(2)}\nName: ${data.get('name')}\nEmail: ${data.get('email')}\nPhone: ${data.get('phone')}`;
     }
 
+    let submissionSuccess = false;
+
     try {
       if (!FORMSPREE_URL.includes('YOUR_FORM_ID')) {
-        await fetch(FORMSPREE_URL, {
+        const response = await fetch(FORMSPREE_URL, {
           method: 'POST',
           body: data,
           headers: { Accept: 'application/json' }
         });
+        submissionSuccess = response.ok;
+        if (!submissionSuccess) {
+          console.warn('Formspree response not OK', response.status, response.statusText);
+        }
       } else {
         console.warn('Formspree URL is not configured. Replace YOUR_FORM_ID with your actual ID.');
       }
@@ -62,7 +68,13 @@ function handleForm(formId, type) {
     const waLink = `https://wa.me/${YOUR_WHATSAPP}?text=${encodeURIComponent(message)}`;
     window.open(waLink, '_blank');
 
-    showFormMessage('Sent! Check WhatsApp to continue the conversation.');
+    if (submissionSuccess) {
+      const nextUrl = data.get('_next') || './thankyou.html';
+      window.location.href = nextUrl;
+    } else {
+      showFormMessage('WhatsApp opened. Email submission may not have completed.', true);
+    }
+
     form.reset();
 
     if (type === 'checkout') {
@@ -93,10 +105,6 @@ function populateCheckoutForm() {
 }
 
 function initializeForms() {
-  if (document.getElementById('contactForm')) {
-    handleForm('contactForm', 'contact');
-  }
-
   if (document.getElementById('checkoutForm')) {
     populateCheckoutForm();
     handleForm('checkoutForm', 'checkout');
