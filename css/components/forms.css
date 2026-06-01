@@ -111,6 +111,42 @@
   resize: vertical;
 }
 
+/* Contact form overrides */
+.contact-form {
+  width: 100%;
+  display: grid;
+  gap: 15px;
+}
+
+.contact-form input,
+.contact-form textarea {
+  width: 100%;
+  padding: 14px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  margin-bottom: 0;
+  box-sizing: border-box;
+  font-size: 1rem;
+  color: var(--color-dark);
+}
+
+.contact-form textarea {
+  min-height: 160px;
+  resize: vertical;
+}
+
+.contact-form button[type="submit"] {
+  width: 100%;
+  padding: 14px;
+  border-radius: 6px;
+}
+
+@media (max-width: 768px) {
+  .contact-form {
+    gap: 12px;
+  }
+}
+
 /* Select */
 .form-select {
   width: 100%;
