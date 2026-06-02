@@ -20,26 +20,6 @@
     "reviews": 3
   },
   {
-    "id": "2",
-    "slug": "3-3m-flat-pack-office-linking-kit",
-    "name": "(3.3m) Flat Pack Office Linking Kit",
-    "category": "Flat Pack Cabins",
-    "categorySlug": "flat-pack-cabins",
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0699/7688/3279/files/01-Flat-Pack-Linking-Kit-960x640-1-300x200.webp?v=1773738354"
-    ],
-    "price": 240,
-    "onSale": false,
-    "isVariable": false,
-    "description": "(3.3m) Flat Pack Office Linking Kit from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
-    "inStock": true,
-    "sku": "HSC-0002",
-    "featured": true,
-    "newArrival": false,
-    "rating": 4.7,
-    "reviews": 16
-  },
-  {
     "id": "3",
     "slug": "6-bay-euro-modular-building",
     "name": "(6 Bay) Euro Modular Building",
@@ -160,26 +140,6 @@
     "reviews": 22
   },
   {
-    "id": "10",
-    "slug": "2-3m-3-3m-4-3m-flat-pack-office-linking-kit-green",
-    "name": "2.3m, 3.3m, 4.3m Flat Pack Office Linking Kit (Green)",
-    "category": "Flat Pack Cabins",
-    "categorySlug": "flat-pack-cabins",
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0699/7688/3279/files/01-Flat-Pack-Linking-Kit-960x640-1-300x200_ea3df99b-93a7-4d26-9c68-82a60827c97e.webp?v=1773738406"
-    ],
-    "price": 155,
-    "onSale": false,
-    "isVariable": false,
-    "description": "2.3m, 3.3m, 4.3m Flat Pack Office Linking Kit (Green) from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
-    "inStock": true,
-    "sku": "HSC-0010",
-    "featured": false,
-    "newArrival": false,
-    "rating": 4.7,
-    "reviews": 24
-  },
-  {
     "id": "11",
     "slug": "2-1-sit-on-waste-tank-4800-ltr",
     "name": "2+1 Sit On Waste Tank 4800 Ltr",
@@ -280,26 +240,6 @@
     "reviews": 17
   },
   {
-    "id": "16",
-    "slug": "3-1-steel-toilet-cabin-16ft-x-9ft",
-    "name": "3+1 Steel Toilet Cabin 16Ft x 9Ft",
-    "category": "Toilet & Utility Units",
-    "categorySlug": "toilet-utility-units",
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0699/7688/3279/files/WhatsApp-Image-2020-03-27-at-08.34.16-1-300x200.webp?v=1773738124"
-    ],
-    "price": 8044,
-    "onSale": false,
-    "isVariable": false,
-    "description": "3+1 Steel Toilet Cabin 16Ft x 9Ft from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
-    "inStock": true,
-    "sku": "HSC-0016",
-    "featured": false,
-    "newArrival": false,
-    "rating": 4.5,
-    "reviews": 6
-  },
-  {
     "id": "17",
     "slug": "3m-x-2-1m-flat-pack-storage-container",
     "name": "3M X 2.1M Flat Pack Storage Container",
@@ -322,7 +262,7 @@
   {
     "id": "18",
     "slug": "3m-x-2-1m-flat-pack-storage-container-galvanised-1",
-    "name": "3m x 2.1m Flat Pack Storage Container \u2013 Galvanised",
+    "name": "3m x 2.1m Flat Pack Storage Container – Galvanised",
     "category": "Flat Pack Stores",
     "categorySlug": "flat-pack-stores",
     "images": [
@@ -331,7 +271,7 @@
     "price": 1145,
     "onSale": false,
     "isVariable": false,
-    "description": "3m x 2.1m Flat Pack Storage Container \u2013 Galvanised from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
+    "description": "3m x 2.1m Flat Pack Storage Container – Galvanised from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
     "inStock": true,
     "sku": "HSC-0018",
     "featured": false,
@@ -342,7 +282,7 @@
   {
     "id": "19",
     "slug": "3m-x-2-1m-flat-pack-storage-container-galvanised",
-    "name": "3M X 2.1M Flat Pack Storage Container \u2013 Galvanised",
+    "name": "3M X 2.1M Flat Pack Storage Container – Galvanised",
     "category": "Flat Pack Stores",
     "categorySlug": "flat-pack-stores",
     "images": [
@@ -351,7 +291,7 @@
     "price": 920,
     "onSale": false,
     "isVariable": false,
-    "description": "3M X 2.1M Flat Pack Storage Container \u2013 Galvanised from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
+    "description": "3M X 2.1M Flat Pack Storage Container – Galvanised from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
     "inStock": true,
     "sku": "HSC-0019",
     "featured": false,
@@ -462,7 +402,7 @@
   {
     "id": "29",
     "slug": "4m-x-2-1m-flat-pack-container-store-galvanised-1",
-    "name": "4m x 2.1m Flat Pack Container Store \u2013 Galvanised",
+    "name": "4m x 2.1m Flat Pack Container Store – Galvanised",
     "category": "Flat Pack Stores",
     "categorySlug": "flat-pack-stores",
     "images": [
@@ -471,7 +411,7 @@
     "price": 1250,
     "onSale": false,
     "isVariable": false,
-    "description": "4m x 2.1m Flat Pack Container Store \u2013 Galvanised from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
+    "description": "4m x 2.1m Flat Pack Container Store – Galvanised from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
     "inStock": true,
     "sku": "HSC-0029",
     "featured": false,
@@ -482,7 +422,7 @@
   {
     "id": "30",
     "slug": "4m-x-2-1m-flat-pack-container-store-galvanised",
-    "name": "4M X 2.1M Flat Pack Container Store \u2013 Galvanised",
+    "name": "4M X 2.1M Flat Pack Container Store – Galvanised",
     "category": "Flat Pack Stores",
     "categorySlug": "flat-pack-stores",
     "images": [
@@ -491,7 +431,7 @@
     "price": 1150,
     "onSale": false,
     "isVariable": false,
-    "description": "4M X 2.1M Flat Pack Container Store \u2013 Galvanised from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
+    "description": "4M X 2.1M Flat Pack Container Store – Galvanised from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
     "inStock": true,
     "sku": "HSC-0030",
     "featured": false,
@@ -578,46 +518,6 @@
     "newArrival": false,
     "rating": 4.7,
     "reviews": 24
-  },
-  {
-    "id": "35",
-    "slug": "6-5m-flat-pack-office-linking-kit",
-    "name": "6.5m Flat Pack Office Linking Kit",
-    "category": "Flat Pack Cabins",
-    "categorySlug": "flat-pack-cabins",
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0699/7688/3279/files/603-Side-by-Side-Linking-Kit-for-Flat-Pack-Office-6.5m-960x640-1-300x200.webp?v=1773738983"
-    ],
-    "price": 370,
-    "onSale": false,
-    "isVariable": false,
-    "description": "6.5m Flat Pack Office Linking Kit from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
-    "inStock": true,
-    "sku": "HSC-0035",
-    "featured": false,
-    "newArrival": false,
-    "rating": 4.4,
-    "reviews": 13
-  },
-  {
-    "id": "36",
-    "slug": "6-5m-x-4-6m-side-linked-flat-pack-container-office",
-    "name": "6.5M X 4.6M Side Linked Flat Pack Container Office",
-    "category": "Flat Pack Cabins",
-    "categorySlug": "flat-pack-cabins",
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0699/7688/3279/files/WhatsApp-Image-2023-01-30-at-10.48.47-PM-300x200.webp?v=1773739524"
-    ],
-    "price": 15100,
-    "onSale": false,
-    "isVariable": false,
-    "description": "6.5M X 4.6M Side Linked Flat Pack Container Office from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
-    "inStock": true,
-    "sku": "HSC-0036",
-    "featured": false,
-    "newArrival": false,
-    "rating": 4.9,
-    "reviews": 26
   },
   {
     "id": "37",
@@ -832,7 +732,7 @@
     "price": 1700,
     "onSale": false,
     "isVariable": false,
-    "description": "&lt;h2 class=\"uppercase\"&gt;&lt;strong&gt;10FT LONG USED FABRICATED STEEL STORAGE CONTAINERS DESCRIPTION&lt;/strong&gt;&lt;/h2&gt; &lt;div&gt;SRA manufactures used steel storage containers measuring 10ft L X 8ft W X 8\u20196\u2032 H. SRA manufactures containers that are currently out of stock in the traditional &lt;a href=\"http://walmart.com/\" target=\"_blank\" rel=\"noopener\"&gt;second-hand container&lt;/a&gt; sector in order to fill a void in the construction, retail, and military sectors. SRA chooses the grade and price that best meets our clients\u2019 needs before cutting the box to the new size.&lt;/div&gt; &lt;div&gt;&lt;/div&gt; &lt;div&gt;For maximum security, SRA completely re-welds the end frame with the original two swing doors. The possibility of overhead lifting remains with the steel edge castings in place.&lt;/div&gt; &lt;div&gt;To enclose the shell, cut a &lt;a href=\"https://sracontainers.com/product/20ft-long-highcube-containers/\"&gt;20ft container&lt;/a&gt; in half and insert a heavy 20 gauge door or a light 26 gauge roll up door. SRA can also install fork pockets for empty lifting if necessary.&lt;/div&gt; &lt;p&gt;Neither new nor used 10ft containers are compatible with any ISO chassis. They must be moved using a flatbed or stepdeck trailer.&lt;/p&gt; &lt;h2 class=\"yikes-custom-woo-tab-title yikes-custom-woo-tab-title-benefits\"&gt;Benefits&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;As a temporary project solution, containers are durable and easy to transport from one event or jobsite to another.&lt;/li&gt; &lt;li&gt;Decommissioned shipping containers are an environmentally and economically friendly alternative to costly brick and mortar construction.&lt;/li&gt; &lt;li&gt;Their ground level feature offers safety and convenience.&lt;/li&gt; &lt;li&gt;Lightweight they are manageable to stack or move at a construction site or military theater&lt;/li&gt; &lt;/ul&gt; &lt;h2 class=\"yikes-custom-woo-tab-title yikes-custom-woo-tab-title-features\"&gt;Features&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;1.25 inch marine plywood floors treated to resist bugs and rodents.&lt;/li&gt; &lt;li&gt;Ashtray vents for air flow prevents condensation.&lt;/li&gt; &lt;li&gt;Factory blasted, primed and painted with marine grade paint systems for durability.&lt;/li&gt; &lt;li&gt;Lashing rings for securing material during transit.&lt;/li&gt; &lt;li&gt;Non-corrosive Corten 14 gauge steel construction.&lt;/li&gt; &lt;li&gt;Safe ground level access so no slippery stairs.&lt;/li&gt; &lt;li&gt;Stackable 9 high.&lt;/li&gt; &lt;li&gt;Standard sizing allows for transport by truck, rail, ship or air.&lt;/li&gt; &lt;li&gt;Vandal proof steel locking bar system on doors.&lt;/li&gt; &lt;li&gt;Watertight with heavy rubber gaskets around doors.&lt;/li&gt; &lt;/ul&gt; &lt;h2 class=\"yikes-custom-woo-tab-title yikes-custom-woo-tab-title-dimensions\"&gt;Dimensions&lt;/h2&gt; &lt;p&gt;**Dimensions are general and will vary based on the manufacturer\u2019s specifications. Please contact us for exact dimensions. **&lt;/p&gt; &lt;p&gt;&lt;strong&gt;External dimensions:&lt;br /&gt; &lt;/strong&gt;10ft L X 8ft W X 8\u20196\u2032 H&lt;br /&gt; &lt;strong&gt;Internal dimensions:&lt;/strong&gt;&lt;br /&gt; 9\u20193\u2033 L X 7\u20198\u2033 W X 7\u20197 H&lt;br /&gt; &lt;strong&gt;Door Opening:&lt;/strong&gt;&lt;br /&gt; 7\u20198\u2033 W X 7\u20195\u2033 H&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Weight:&lt;/strong&gt;&lt;br /&gt; &lt;strong&gt;Tare Weight&lt;/strong&gt;: 2850 lbs&lt;br /&gt; &lt;strong&gt;Max Gross Weight:&lt;/strong&gt; 22,250 lbs&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Cubic Capacity: &lt;/strong&gt;550 cubic feet&lt;/p&gt; &lt;h2 class=\"yikes-custom-woo-tab-title yikes-custom-woo-tab-title-applications\"&gt;Applications&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Concession Stands&lt;/li&gt; &lt;li&gt;Control Rooms for Industry + Government&lt;/li&gt; &lt;li&gt;Emergency Generator Stations&lt;/li&gt; &lt;li&gt;Excess seasonal inventory storage.&lt;/li&gt; &lt;li&gt;Fireproof storage of: files, cars, boats, power machinery, furniture +&lt;/li&gt; &lt;li&gt;Garages.&lt;/li&gt; &lt;li&gt;Kiosk\u2019s for Retail Space&lt;/li&gt; &lt;li&gt;Permanent or Temporary Housing&lt;/li&gt; &lt;li&gt;Portable Office&lt;/li&gt; &lt;/ul&gt;",
+    "description": "&lt;h2 class=\"uppercase\"&gt;&lt;strong&gt;10FT LONG USED FABRICATED STEEL STORAGE CONTAINERS DESCRIPTION&lt;/strong&gt;&lt;/h2&gt; &lt;div&gt;SRA manufactures used steel storage containers measuring 10ft L X 8ft W X 8’6′ H. SRA manufactures containers that are currently out of stock in the traditional &lt;a href=\"http://walmart.com/\" target=\"_blank\" rel=\"noopener\"&gt;second-hand container&lt;/a&gt; sector in order to fill a void in the construction, retail, and military sectors. SRA chooses the grade and price that best meets our clients’ needs before cutting the box to the new size.&lt;/div&gt; &lt;div&gt;&lt;/div&gt; &lt;div&gt;For maximum security, SRA completely re-welds the end frame with the original two swing doors. The possibility of overhead lifting remains with the steel edge castings in place.&lt;/div&gt; &lt;div&gt;To enclose the shell, cut a &lt;a href=\"https://sracontainers.com/product/20ft-long-highcube-containers/\"&gt;20ft container&lt;/a&gt; in half and insert a heavy 20 gauge door or a light 26 gauge roll up door. SRA can also install fork pockets for empty lifting if necessary.&lt;/div&gt; &lt;p&gt;Neither new nor used 10ft containers are compatible with any ISO chassis. They must be moved using a flatbed or stepdeck trailer.&lt;/p&gt; &lt;h2 class=\"yikes-custom-woo-tab-title yikes-custom-woo-tab-title-benefits\"&gt;Benefits&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;As a temporary project solution, containers are durable and easy to transport from one event or jobsite to another.&lt;/li&gt; &lt;li&gt;Decommissioned shipping containers are an environmentally and economically friendly alternative to costly brick and mortar construction.&lt;/li&gt; &lt;li&gt;Their ground level feature offers safety and convenience.&lt;/li&gt; &lt;li&gt;Lightweight they are manageable to stack or move at a construction site or military theater&lt;/li&gt; &lt;/ul&gt; &lt;h2 class=\"yikes-custom-woo-tab-title yikes-custom-woo-tab-title-features\"&gt;Features&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;1.25 inch marine plywood floors treated to resist bugs and rodents.&lt;/li&gt; &lt;li&gt;Ashtray vents for air flow prevents condensation.&lt;/li&gt; &lt;li&gt;Factory blasted, primed and painted with marine grade paint systems for durability.&lt;/li&gt; &lt;li&gt;Lashing rings for securing material during transit.&lt;/li&gt; &lt;li&gt;Non-corrosive Corten 14 gauge steel construction.&lt;/li&gt; &lt;li&gt;Safe ground level access so no slippery stairs.&lt;/li&gt; &lt;li&gt;Stackable 9 high.&lt;/li&gt; &lt;li&gt;Standard sizing allows for transport by truck, rail, ship or air.&lt;/li&gt; &lt;li&gt;Vandal proof steel locking bar system on doors.&lt;/li&gt; &lt;li&gt;Watertight with heavy rubber gaskets around doors.&lt;/li&gt; &lt;/ul&gt; &lt;h2 class=\"yikes-custom-woo-tab-title yikes-custom-woo-tab-title-dimensions\"&gt;Dimensions&lt;/h2&gt; &lt;p&gt;**Dimensions are general and will vary based on the manufacturer’s specifications. Please contact us for exact dimensions. **&lt;/p&gt; &lt;p&gt;&lt;strong&gt;External dimensions:&lt;br /&gt; &lt;/strong&gt;10ft L X 8ft W X 8’6′ H&lt;br /&gt; &lt;strong&gt;Internal dimensions:&lt;/strong&gt;&lt;br /&gt; 9’3″ L X 7’8″ W X 7’7 H&lt;br /&gt; &lt;strong&gt;Door Opening:&lt;/strong&gt;&lt;br /&gt; 7’8″ W X 7’5″ H&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Weight:&lt;/strong&gt;&lt;br /&gt; &lt;strong&gt;Tare Weight&lt;/strong&gt;: 2850 lbs&lt;br /&gt; &lt;strong&gt;Max Gross Weight:&lt;/strong&gt; 22,250 lbs&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Cubic Capacity: &lt;/strong&gt;550 cubic feet&lt;/p&gt; &lt;h2 class=\"yikes-custom-woo-tab-title yikes-custom-woo-tab-title-applications\"&gt;Applications&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Concession Stands&lt;/li&gt; &lt;li&gt;Control Rooms for Industry + Government&lt;/li&gt; &lt;li&gt;Emergency Generator Stations&lt;/li&gt; &lt;li&gt;Excess seasonal inventory storage.&lt;/li&gt; &lt;li&gt;Fireproof storage of: files, cars, boats, power machinery, furniture +&lt;/li&gt; &lt;li&gt;Garages.&lt;/li&gt; &lt;li&gt;Kiosk’s for Retail Space&lt;/li&gt; &lt;li&gt;Permanent or Temporary Housing&lt;/li&gt; &lt;li&gt;Portable Office&lt;/li&gt; &lt;/ul&gt;",
     "inStock": true,
     "sku": "HSC-0049",
     "featured": false,
@@ -883,7 +783,7 @@
   {
     "id": "52",
     "slug": "10ft-x-8ft-shipping-container-one-trip-blue-1",
-    "name": "10Ft X 8Ft Shipping Container (One trip) \u2013 Blue",
+    "name": "10Ft X 8Ft Shipping Container (One trip) – Blue",
     "category": "10 FT Shipping Containers",
     "categorySlug": "10ft-containers",
     "images": [
@@ -892,7 +792,7 @@
     "price": 1535,
     "onSale": false,
     "isVariable": false,
-    "description": "10Ft X 8Ft Shipping Container (One trip) \u2013 Blue from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
+    "description": "10Ft X 8Ft Shipping Container (One trip) – Blue from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
     "inStock": true,
     "sku": "HSC-0052",
     "featured": false,
@@ -903,7 +803,7 @@
   {
     "id": "54",
     "slug": "10ft-x-8ft-shipping-container-one-trip-green-1",
-    "name": "10Ft X 8Ft Shipping Container (One Trip) \u2013 Green",
+    "name": "10Ft X 8Ft Shipping Container (One Trip) – Green",
     "category": "10 FT Shipping Containers",
     "categorySlug": "10ft-containers",
     "images": [
@@ -912,7 +812,7 @@
     "price": 2150,
     "onSale": false,
     "isVariable": false,
-    "description": "10Ft X 8Ft Shipping Container (One Trip) \u2013 Green from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
+    "description": "10Ft X 8Ft Shipping Container (One Trip) – Green from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
     "inStock": true,
     "sku": "HSC-0054",
     "featured": false,
@@ -923,7 +823,7 @@
   {
     "id": "56",
     "slug": "10ft-x-8ft-shipping-container-one-trip-white",
-    "name": "10Ft X 8Ft Shipping Container (One Trip) \u2013 White",
+    "name": "10Ft X 8Ft Shipping Container (One Trip) – White",
     "category": "10 FT Shipping Containers",
     "categorySlug": "10ft-containers",
     "images": [
@@ -932,7 +832,7 @@
     "price": 2150,
     "onSale": false,
     "isVariable": false,
-    "description": "10Ft X 8Ft Shipping Container (One Trip) \u2013 White from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
+    "description": "10Ft X 8Ft Shipping Container (One Trip) – White from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
     "inStock": true,
     "sku": "HSC-0056",
     "featured": false,
@@ -979,46 +879,6 @@
     "newArrival": false,
     "rating": 4.4,
     "reviews": 13
-  },
-  {
-    "id": "60",
-    "slug": "12ft-x-7ft-6in-mobile-canteen-cabin-1",
-    "name": "12Ft x 7Ft 6in Mobile Canteen Cabin",
-    "category": "Site Cabins & Offices",
-    "categorySlug": "site-cabins-offices",
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0699/7688/3279/files/WhatsApp-Image-2020-03-25-at-08.40.581-1-300x200_397fe592-a428-4b01-acd2-59020a49109b.webp?v=1773735766"
-    ],
-    "price": 11070,
-    "onSale": false,
-    "isVariable": false,
-    "description": "12Ft x 7Ft 6in Mobile Canteen Cabin from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
-    "inStock": true,
-    "sku": "HSC-0060",
-    "featured": false,
-    "newArrival": false,
-    "rating": 4.9,
-    "reviews": 26
-  },
-  {
-    "id": "62",
-    "slug": "12ft-x-7ft-6in-steel-mobile-anti-vandal-office-cabin-1",
-    "name": "12Ft x 7Ft 6in Steel Mobile Anti-Vandal Office Cabin",
-    "category": "Site Cabins & Offices",
-    "categorySlug": "site-cabins-offices",
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0699/7688/3279/files/WhatsApp-Image-2020-03-25-at-08.40.57-1-300x200_0d27d52d-c5e7-45bc-b494-2036a55f8b13.webp?v=1773735791"
-    ],
-    "price": 10250,
-    "onSale": false,
-    "isVariable": false,
-    "description": "12Ft x 7Ft 6in Steel Mobile Anti-Vandal Office Cabin from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
-    "inStock": true,
-    "sku": "HSC-0062",
-    "featured": false,
-    "newArrival": false,
-    "rating": 4.3,
-    "reviews": 4
   },
   {
     "id": "64",
@@ -1143,7 +1003,7 @@
   {
     "id": "73",
     "slug": "12v-300ah-group-8d-cranking-deep-cycle-lithium-battery-dual-purpose",
-    "name": "12V 300Ah \u2013 Group 8D \u2013 Cranking & Deep Cycle Lithium Battery (Dual Purpose)",
+    "name": "12V 300Ah – Group 8D – Cranking & Deep Cycle Lithium Battery (Dual Purpose)",
     "category": "Shipping Containers",
     "categorySlug": "shipping-containers",
     "images": [
@@ -1152,7 +1012,7 @@
     "price": 795,
     "onSale": false,
     "isVariable": false,
-    "description": "12V 300Ah \u2013 Group 8D \u2013 Cranking & Deep Cycle Lithium Battery (Dual Purpose) from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
+    "description": "12V 300Ah – Group 8D – Cranking & Deep Cycle Lithium Battery (Dual Purpose) from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
     "inStock": true,
     "sku": "HSC-0073",
     "featured": false,
@@ -1283,7 +1143,7 @@
   {
     "id": "82",
     "slug": "14-000-gvwr-ultra-low-pro-12-dump-trailer-w-contractor-package",
-    "name": "14,000# GVWR Ultra Low Pro 12\u2032 Dump Trailer w/ Contractor Package",
+    "name": "14,000# GVWR Ultra Low Pro 12′ Dump Trailer w/ Contractor Package",
     "category": "Trailers",
     "categorySlug": "trailers",
     "images": [
@@ -1292,7 +1152,7 @@
     "price": 1499,
     "onSale": false,
     "isVariable": false,
-    "description": "14,000# GVWR Ultra Low Pro 12\u2032 Dump Trailer w/ Contractor Package from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
+    "description": "14,000# GVWR Ultra Low Pro 12′ Dump Trailer w/ Contractor Package from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
     "inStock": true,
     "sku": "HSC-0082",
     "featured": false,
@@ -1319,26 +1179,6 @@
     "newArrival": false,
     "rating": 4.4,
     "reviews": 13
-  },
-  {
-    "id": "84",
-    "slug": "16ft-x-7ft-6in-mobile-canteen-cabin",
-    "name": "16Ft x 7Ft 6in Mobile Canteen Cabin",
-    "category": "Site Cabins & Offices",
-    "categorySlug": "site-cabins-offices",
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0699/7688/3279/files/WhatsApp-Image-2020-03-26-at-08.40.11-1-300x200.webp?v=1773736719"
-    ],
-    "price": 13207,
-    "onSale": false,
-    "isVariable": false,
-    "description": "16Ft x 7Ft 6in Mobile Canteen Cabin from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
-    "inStock": true,
-    "sku": "HSC-0084",
-    "featured": false,
-    "newArrival": false,
-    "rating": 4.9,
-    "reviews": 26
   },
   {
     "id": "85",
@@ -1423,7 +1263,7 @@
   {
     "id": "89",
     "slug": "20-hc-open-top-container",
-    "name": "20\u2032 HC Open Top Container",
+    "name": "20′ HC Open Top Container",
     "category": "20 FT Shipping Containers",
     "categorySlug": "20ft-containers",
     "images": [
@@ -1432,7 +1272,7 @@
     "price": 2600,
     "onSale": false,
     "isVariable": false,
-    "description": "20\u2032 HC Open Top Container from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
+    "description": "20′ HC Open Top Container from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
     "inStock": true,
     "sku": "HSC-0089",
     "featured": true,
@@ -1443,7 +1283,7 @@
   {
     "id": "90",
     "slug": "20ft-blast-freezer-container-40-f-to-70-f-460v-230v-3p-1",
-    "name": "20FT Blast Freezer Container-40\u00b0F TO 70\u00b0F (460V/230V 3P)",
+    "name": "20FT Blast Freezer Container-40°F TO 70°F (460V/230V 3P)",
     "category": "Refrigerated Containers",
     "categorySlug": "refrigerated-containers",
     "images": [
@@ -1452,7 +1292,7 @@
     "price": 5750,
     "onSale": false,
     "isVariable": false,
-    "description": "20FT Blast Freezer Container-40\u00b0F TO 70\u00b0F (460V/230V 3P) from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
+    "description": "20FT Blast Freezer Container-40°F TO 70°F (460V/230V 3P) from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
     "inStock": true,
     "sku": "HSC-0090",
     "featured": false,
@@ -1523,7 +1363,7 @@
   {
     "id": "96",
     "slug": "20ft-hi-cube-container-9-6-high-suitable-for-ibc-storage-sliding-door",
-    "name": "20ft Hi Cube Container (9\u2032 6\u2033 high) suitable for IBC storage Sliding Door",
+    "name": "20ft Hi Cube Container (9′ 6″ high) suitable for IBC storage Sliding Door",
     "category": "Accessories",
     "categorySlug": "accessories",
     "images": [
@@ -1532,7 +1372,7 @@
     "price": 2800,
     "onSale": false,
     "isVariable": false,
-    "description": "20ft Hi Cube Container (9\u2032 6\u2033 high) suitable for IBC storage Sliding Door from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
+    "description": "20ft Hi Cube Container (9′ 6″ high) suitable for IBC storage Sliding Door from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
     "inStock": true,
     "sku": "HSC-0096",
     "featured": false,
@@ -1543,7 +1383,7 @@
   {
     "id": "97",
     "slug": "20ft-hi-cube-container9-6-high-suitable-for-ibc-storage",
-    "name": "20Ft HI Cube Container(9\u2032 6\u2033 High) Suitable For IBC Storage",
+    "name": "20Ft HI Cube Container(9′ 6″ High) Suitable For IBC Storage",
     "category": "Accessories",
     "categorySlug": "accessories",
     "images": [
@@ -1552,7 +1392,7 @@
     "price": 4400,
     "onSale": false,
     "isVariable": false,
-    "description": "20Ft HI Cube Container(9\u2032 6\u2033 High) Suitable For IBC Storage from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
+    "description": "20Ft HI Cube Container(9′ 6″ High) Suitable For IBC Storage from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
     "inStock": true,
     "sku": "HSC-0097",
     "featured": false,
@@ -1563,7 +1403,7 @@
   {
     "id": "98",
     "slug": "20ft-high-cube-container-hazardous-waste-container-side-opening-9ft-6-high",
-    "name": "20ft High Cube Container \u2013 Hazardous Waste Container, Side opening (9ft 6\u2032 high)",
+    "name": "20ft High Cube Container – Hazardous Waste Container, Side opening (9ft 6′ high)",
     "category": "20 FT Shipping Containers",
     "categorySlug": "20ft-containers",
     "images": [
@@ -1572,7 +1412,7 @@
     "price": 2500,
     "onSale": false,
     "isVariable": false,
-    "description": "20ft High Cube Container \u2013 Hazardous Waste Container, Side opening (9ft 6\u2032 high) from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
+    "description": "20ft High Cube Container – Hazardous Waste Container, Side opening (9ft 6′ high) from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
     "inStock": true,
     "sku": "HSC-0098",
     "featured": false,
@@ -1583,7 +1423,7 @@
   {
     "id": "99",
     "slug": "20ft-high-cube-container-one-trip-9ft-6-high-1",
-    "name": "20Ft High Cube Container \u2013 One Trip (9FT 6\u2032 High)",
+    "name": "20Ft High Cube Container – One Trip (9FT 6′ High)",
     "category": "20 FT Shipping Containers",
     "categorySlug": "20ft-containers",
     "images": [
@@ -1592,7 +1432,7 @@
     "price": 2850,
     "onSale": false,
     "isVariable": false,
-    "description": "20Ft High Cube Container \u2013 One Trip (9FT 6\u2032 High) from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
+    "description": "20Ft High Cube Container – One Trip (9FT 6′ High) from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
     "inStock": true,
     "sku": "HSC-0099",
     "featured": false,
@@ -1603,7 +1443,7 @@
   {
     "id": "100",
     "slug": "20ft-high-cube-container-one-trip-9ft-6-high",
-    "name": "20ft High Cube Container \u2013 One Trip (9ft 6\u2032 high)",
+    "name": "20ft High Cube Container – One Trip (9ft 6′ high)",
     "category": "20 FT Shipping Containers",
     "categorySlug": "20ft-containers",
     "images": [
@@ -1612,7 +1452,7 @@
     "price": 2200,
     "onSale": false,
     "isVariable": false,
-    "description": "20ft High Cube Container \u2013 One Trip (9ft 6\u2032 high) from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
+    "description": "20ft High Cube Container – One Trip (9ft 6′ high) from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
     "inStock": true,
     "sku": "HSC-0100",
     "featured": true,
@@ -1623,7 +1463,7 @@
   {
     "id": "101",
     "slug": "20ft-high-cube-container-9-6-high-suitable-for-ibc-storage",
-    "name": "20ft High Cube Container (9\u2032 6\u2033 high) suitable for IBC storage",
+    "name": "20ft High Cube Container (9′ 6″ high) suitable for IBC storage",
     "category": "Accessories",
     "categorySlug": "accessories",
     "images": [
@@ -1632,7 +1472,7 @@
     "price": 2500,
     "onSale": false,
     "isVariable": false,
-    "description": "20ft High Cube Container (9\u2032 6\u2033 high) suitable for IBC storage from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
+    "description": "20ft High Cube Container (9′ 6″ high) suitable for IBC storage from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
     "inStock": true,
     "sku": "HSC-0101",
     "featured": false,
@@ -1703,7 +1543,7 @@
   {
     "id": "105",
     "slug": "20ft-long-openside-containers-8-6-h-and-9-6-h",
-    "name": "20ft Long Openside Containers 8\u20196\u2032 H and 9\u20196\u2033 H",
+    "name": "20ft Long Openside Containers 8’6′ H and 9’6″ H",
     "category": "20 FT Shipping Containers",
     "categorySlug": "20ft-containers",
     "images": [
@@ -1712,7 +1552,7 @@
     "price": 999,
     "onSale": false,
     "isVariable": false,
-    "description": "20ft Long Openside Containers 8\u20196\u2032 H and 9\u20196\u2033 H from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
+    "description": "20ft Long Openside Containers 8’6′ H and 9’6″ H from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
     "inStock": true,
     "sku": "HSC-0105",
     "featured": false,
@@ -1763,7 +1603,7 @@
   {
     "id": "108",
     "slug": "20ft-shipping-container-one-trip-blue",
-    "name": "20Ft Shipping Container (One Trip) \u2013 Blue",
+    "name": "20Ft Shipping Container (One Trip) – Blue",
     "category": "20 FT Shipping Containers",
     "categorySlug": "20ft-containers",
     "images": [
@@ -1772,7 +1612,7 @@
     "price": 2300,
     "onSale": false,
     "isVariable": false,
-    "description": "20Ft Shipping Container (One Trip) \u2013 Blue from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
+    "description": "20Ft Shipping Container (One Trip) – Blue from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
     "inStock": true,
     "sku": "HSC-0108",
     "featured": false,
@@ -1783,7 +1623,7 @@
   {
     "id": "109",
     "slug": "20ft-shipping-container-one-trip-dark-green",
-    "name": "20Ft Shipping Container (One Trip) \u2013 Dark Green",
+    "name": "20Ft Shipping Container (One Trip) – Dark Green",
     "category": "20 FT Shipping Containers",
     "categorySlug": "20ft-containers",
     "images": [
@@ -1792,7 +1632,7 @@
     "price": 2400,
     "onSale": false,
     "isVariable": false,
-    "description": "20Ft Shipping Container (One Trip) \u2013 Dark Green from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
+    "description": "20Ft Shipping Container (One Trip) – Dark Green from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
     "inStock": true,
     "sku": "HSC-0109",
     "featured": false,
@@ -1803,7 +1643,7 @@
   {
     "id": "110",
     "slug": "20ft-shipping-container-one-trip-white",
-    "name": "20Ft Shipping Container (One Trip) \u2013 White",
+    "name": "20Ft Shipping Container (One Trip) – White",
     "category": "20 FT Shipping Containers",
     "categorySlug": "20ft-containers",
     "images": [
@@ -1812,7 +1652,7 @@
     "price": 2400,
     "onSale": false,
     "isVariable": false,
-    "description": "20Ft Shipping Container (One Trip) \u2013 White from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
+    "description": "20Ft Shipping Container (One Trip) – White from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
     "inStock": true,
     "sku": "HSC-0110",
     "featured": false,
@@ -1866,7 +1706,7 @@
   {
     "id": "113",
     "slug": "20ft-used-shipping-container-wind-watertight",
-    "name": "20Ft Used Shipping Container \u2013 Wind & Watertight",
+    "name": "20Ft Used Shipping Container – Wind & Watertight",
     "category": "20 FT Shipping Containers",
     "categorySlug": "20ft-containers",
     "images": [
@@ -1875,7 +1715,7 @@
     "price": 1443,
     "onSale": false,
     "isVariable": false,
-    "description": "20Ft Used Shipping Container \u2013 Wind & Watertight from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
+    "description": "20Ft Used Shipping Container – Wind & Watertight from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
     "inStock": true,
     "sku": "HSC-0113",
     "featured": false,
@@ -1926,7 +1766,7 @@
   {
     "id": "116",
     "slug": "20ft-x-8ft-flat-floor-bunded-store-portable-space-1",
-    "name": "20Ft X 8Ft Flat Floor Bunded Store \u2013 Portable Space",
+    "name": "20Ft X 8Ft Flat Floor Bunded Store – Portable Space",
     "category": "Accessories",
     "categorySlug": "accessories",
     "images": [
@@ -1935,7 +1775,7 @@
     "price": 7048,
     "onSale": false,
     "isVariable": false,
-    "description": "20Ft X 8Ft Flat Floor Bunded Store \u2013 Portable Space from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
+    "description": "20Ft X 8Ft Flat Floor Bunded Store – Portable Space from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
     "inStock": true,
     "sku": "HSC-0116",
     "featured": false,
@@ -2042,26 +1882,6 @@
     "newArrival": false,
     "rating": 4.8,
     "reviews": 9
-  },
-  {
-    "id": "128",
-    "slug": "20ft-x-8ft-steel-canteen-store-cabin",
-    "name": "20Ft x 8Ft Steel Canteen/Store Cabin",
-    "category": "Site Cabins & Offices",
-    "categorySlug": "site-cabins-offices",
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0699/7688/3279/files/WhatsApp-Image-2020-03-25-at-08.40.59-1-300x200.webp?v=1773737516"
-    ],
-    "price": 6480,
-    "onSale": false,
-    "isVariable": false,
-    "description": "20Ft x 8Ft Steel Canteen/Store Cabin from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
-    "inStock": true,
-    "sku": "HSC-0128",
-    "featured": false,
-    "newArrival": false,
-    "rating": 4.5,
-    "reviews": 22
   },
   {
     "id": "129",
@@ -2257,7 +2077,7 @@
     "price": 3200,
     "onSale": false,
     "isVariable": false,
-    "description": "&lt;div&gt;&lt;b&gt;Used 40ft Hi Cube Refrigerated Reefer Containers For Sale&lt;/b&gt;&lt;/div&gt; &lt;div&gt;&lt;/div&gt; &lt;div&gt;1st Containers USA Limited, Rainham, Essex, RM13 8RH&lt;/div&gt; &lt;div&gt;&lt;/div&gt; &lt;div&gt;Carrier Machines&lt;/div&gt; &lt;div&gt;&lt;/div&gt; &lt;div&gt;Can be used for domestic storage or shipping purposes&lt;/div&gt; &lt;div&gt;&lt;/div&gt; &lt;div&gt;Refrigeration machine is fully PTI\u2019d (MOT\u2019d) before delivery&lt;/div&gt; &lt;div&gt;Sold with a major parts warranty&lt;/div&gt; &lt;div&gt;&lt;/div&gt; &lt;div&gt;Optional extras include, exterior repainting (as shown in photos), interior lights, man-trapped panic alarm, ramp &amp; lock box.&lt;/div&gt; &lt;div&gt;Can be set to a single temperature point from -25c to +25c&lt;/div&gt; &lt;div&gt;&lt;/div&gt; &lt;div&gt;Power requirements \u2013 3 phase 440v neutral &amp; earth on a 32amp motor rated breaker 5 pin socket&lt;/div&gt; &lt;div&gt;&lt;/div&gt; &lt;div&gt;&lt;b&gt;Delivery Nationwide to any site in the USA&lt;/b&gt; (delivery quotes available on request)&lt;/div&gt; &lt;div&gt;&lt;/div&gt; &lt;div&gt;The price is plus VAT and a VAT invoice will be provided at point of sale.&lt;/div&gt; &lt;div&gt;&lt;/div&gt; &lt;div&gt;Please contact Paul in our office for delivery prices and any technical questions you may have&lt;/div&gt;",
+    "description": "&lt;div&gt;&lt;b&gt;Used 40ft Hi Cube Refrigerated Reefer Containers For Sale&lt;/b&gt;&lt;/div&gt; &lt;div&gt;&lt;/div&gt; &lt;div&gt;1st Containers USA Limited, Rainham, Essex, RM13 8RH&lt;/div&gt; &lt;div&gt;&lt;/div&gt; &lt;div&gt;Carrier Machines&lt;/div&gt; &lt;div&gt;&lt;/div&gt; &lt;div&gt;Can be used for domestic storage or shipping purposes&lt;/div&gt; &lt;div&gt;&lt;/div&gt; &lt;div&gt;Refrigeration machine is fully PTI’d (MOT’d) before delivery&lt;/div&gt; &lt;div&gt;Sold with a major parts warranty&lt;/div&gt; &lt;div&gt;&lt;/div&gt; &lt;div&gt;Optional extras include, exterior repainting (as shown in photos), interior lights, man-trapped panic alarm, ramp &amp; lock box.&lt;/div&gt; &lt;div&gt;Can be set to a single temperature point from -25c to +25c&lt;/div&gt; &lt;div&gt;&lt;/div&gt; &lt;div&gt;Power requirements – 3 phase 440v neutral &amp; earth on a 32amp motor rated breaker 5 pin socket&lt;/div&gt; &lt;div&gt;&lt;/div&gt; &lt;div&gt;&lt;b&gt;Delivery Nationwide to any site in the USA&lt;/b&gt; (delivery quotes available on request)&lt;/div&gt; &lt;div&gt;&lt;/div&gt; &lt;div&gt;The price is plus VAT and a VAT invoice will be provided at point of sale.&lt;/div&gt; &lt;div&gt;&lt;/div&gt; &lt;div&gt;Please contact Paul in our office for delivery prices and any technical questions you may have&lt;/div&gt;",
     "inStock": true,
     "sku": "HSC-0145",
     "featured": false,
@@ -2324,26 +2144,6 @@
     "newArrival": false,
     "rating": 4.3,
     "reviews": 20
-  },
-  {
-    "id": "151",
-    "slug": "30-ft-container-pool",
-    "name": "30 Ft Container Pool",
-    "category": "Container Pools",
-    "categorySlug": "container-pools",
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0699/7688/3279/files/WhatsApp-Image-2024-01-04-at-18.07.59_ce8998d4-750x745.jpg?v=1773751937"
-    ],
-    "price": 11000,
-    "onSale": false,
-    "isVariable": false,
-    "description": "30 Ft Container Pool from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
-    "inStock": true,
-    "sku": "HSC-0151",
-    "featured": false,
-    "newArrival": false,
-    "rating": 4.8,
-    "reviews": 9
   },
   {
     "id": "152",
@@ -2466,26 +2266,6 @@
     "reviews": 19
   },
   {
-    "id": "163",
-    "slug": "32ft-x-10ft-steel-canteen-cabin",
-    "name": "32Ft x 10Ft Steel Canteen Cabin",
-    "category": "Site Cabins & Offices",
-    "categorySlug": "site-cabins-offices",
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0699/7688/3279/files/WhatsApp-Image-2020-03-26-at-07.14.48-300x200.webp?v=1773737959"
-    ],
-    "price": 9829,
-    "onSale": false,
-    "isVariable": false,
-    "description": "32Ft x 10Ft Steel Canteen Cabin from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
-    "inStock": true,
-    "sku": "HSC-0163",
-    "featured": false,
-    "newArrival": false,
-    "rating": 4.4,
-    "reviews": 21
-  },
-  {
     "id": "164",
     "slug": "32ft-x-10ft-steel-drying-room-cabin",
     "name": "32Ft x 10Ft Steel Drying Room Cabin",
@@ -2539,7 +2319,7 @@
     "price": 7000,
     "onSale": false,
     "isVariable": false,
-    "description": "&lt;p&gt;40\u2032 HC ONE TRIP CONTAINERS&lt;/p&gt; &lt;div&gt; &lt;div&gt; &lt;ul&gt; &lt;li&gt;&lt;b&gt;Long:&lt;/b&gt; 40\u2032&lt;/li&gt; &lt;li&gt;&lt;b&gt;Tall:&lt;/b&gt; 9\u20196\u2033&lt;/li&gt; &lt;li&gt;&lt;b&gt;Wide:&lt;/b&gt; 8\u2032&lt;/li&gt; &lt;/ul&gt; &lt;/div&gt; &lt;div&gt; &lt;p&gt;&lt;b&gt;Model (Year) 2021 (On ocean one time on way to U.S.A.)&lt;/b&gt;&lt;/p&gt; &lt;div&gt;\u2192Perfect for personal or business storage&lt;/div&gt; &lt;div&gt; &lt;div&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;/div&gt; &lt;div&gt;-Phone number or address will get flag by eBay. eBay does not allow to exchange this information eBay policy.&lt;/div&gt; &lt;div&gt;-If you want to see this container in person, you can do the buy it now and you don\u2019t need to pay for it just do the buy it now. Then address and phone will be allowed to be given.&lt;/div&gt; &lt;div&gt;-After you see the container and want to buy one you can pay in person or via eBay.&lt;/div&gt; &lt;div&gt;-After you see the container and don\u2019t want to buy it all you have to do is cancel this order and I will do the same. It\u2019s considered a mutual cancel.&lt;/div&gt; &lt;div&gt;&lt;/div&gt; &lt;div&gt;These containers are &lt;b&gt;located in Bakersfield, CA.&lt;/b&gt;&lt;/div&gt; &lt;div&gt;&lt;/div&gt; &lt;div&gt;&lt;b&gt;DELIVERY IS EXTRA&lt;/b&gt;&lt;/div&gt; &lt;div&gt;&lt;b&gt;Delivery starting at $300 for the first 25 miles&lt;/b&gt; on tilt container trailer or you can pick up yourself we will load you up.&lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt;",
+    "description": "&lt;p&gt;40′ HC ONE TRIP CONTAINERS&lt;/p&gt; &lt;div&gt; &lt;div&gt; &lt;ul&gt; &lt;li&gt;&lt;b&gt;Long:&lt;/b&gt; 40′&lt;/li&gt; &lt;li&gt;&lt;b&gt;Tall:&lt;/b&gt; 9’6″&lt;/li&gt; &lt;li&gt;&lt;b&gt;Wide:&lt;/b&gt; 8′&lt;/li&gt; &lt;/ul&gt; &lt;/div&gt; &lt;div&gt; &lt;p&gt;&lt;b&gt;Model (Year) 2021 (On ocean one time on way to U.S.A.)&lt;/b&gt;&lt;/p&gt; &lt;div&gt;→Perfect for personal or business storage&lt;/div&gt; &lt;div&gt; &lt;div&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;/div&gt; &lt;div&gt;-Phone number or address will get flag by eBay. eBay does not allow to exchange this information eBay policy.&lt;/div&gt; &lt;div&gt;-If you want to see this container in person, you can do the buy it now and you don’t need to pay for it just do the buy it now. Then address and phone will be allowed to be given.&lt;/div&gt; &lt;div&gt;-After you see the container and want to buy one you can pay in person or via eBay.&lt;/div&gt; &lt;div&gt;-After you see the container and don’t want to buy it all you have to do is cancel this order and I will do the same. It’s considered a mutual cancel.&lt;/div&gt; &lt;div&gt;&lt;/div&gt; &lt;div&gt;These containers are &lt;b&gt;located in Bakersfield, CA.&lt;/b&gt;&lt;/div&gt; &lt;div&gt;&lt;/div&gt; &lt;div&gt;&lt;b&gt;DELIVERY IS EXTRA&lt;/b&gt;&lt;/div&gt; &lt;div&gt;&lt;b&gt;Delivery starting at $300 for the first 25 miles&lt;/b&gt; on tilt container trailer or you can pick up yourself we will load you up.&lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt;",
     "inStock": true,
     "sku": "HSC-0167",
     "featured": false,
@@ -2624,7 +2404,7 @@
     "price": 2400,
     "onSale": false,
     "isVariable": false,
-    "description": "&lt;p&gt;40ft HC Used Shipping Container \u2013 Wind and Watertight \u2013 3 available&lt;/p&gt;",
+    "description": "&lt;p&gt;40ft HC Used Shipping Container – Wind and Watertight – 3 available&lt;/p&gt;",
     "inStock": true,
     "sku": "HSC-0174",
     "featured": false,
@@ -2635,7 +2415,7 @@
   {
     "id": "175",
     "slug": "40ft-deep-freezer-with-generator-76-f-to-30-f-460v-230v-3p",
-    "name": "40FT Deep Freezer With Generator -76\u00b0F TO 30\u00b0F (460V/230V 3P)",
+    "name": "40FT Deep Freezer With Generator -76°F TO 30°F (460V/230V 3P)",
     "category": "Refrigerated Containers",
     "categorySlug": "refrigerated-containers",
     "images": [
@@ -2644,7 +2424,7 @@
     "price": 9550,
     "onSale": false,
     "isVariable": false,
-    "description": "40FT Deep Freezer With Generator -76\u00b0F TO 30\u00b0F (460V/230V 3P) from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
+    "description": "40FT Deep Freezer With Generator -76°F TO 30°F (460V/230V 3P) from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
     "inStock": true,
     "sku": "HSC-0175",
     "featured": false,
@@ -2655,7 +2435,7 @@
   {
     "id": "176",
     "slug": "40ft-full-side-access-container-high-cube-9-6-high-1",
-    "name": "40Ft Full Side Access Container High Cube (9\u2032 6\u2033 High)",
+    "name": "40Ft Full Side Access Container High Cube (9′ 6″ High)",
     "category": "40 FT Shipping Containers",
     "categorySlug": "40ft-containers",
     "images": [
@@ -2664,7 +2444,7 @@
     "price": 12000,
     "onSale": false,
     "isVariable": false,
-    "description": "40Ft Full Side Access Container High Cube (9\u2032 6\u2033 High) from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
+    "description": "40Ft Full Side Access Container High Cube (9′ 6″ High) from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
     "inStock": true,
     "sku": "HSC-0176",
     "featured": false,
@@ -2686,7 +2466,7 @@
     "price": 3200,
     "onSale": false,
     "isVariable": false,
-    "description": "&lt;div&gt;&lt;b&gt;Used 40ft Hi Cube Refrigerated Reefer Containers For Sale&lt;/b&gt;&lt;/div&gt; &lt;div&gt;&lt;/div&gt; &lt;div&gt;1st Containers USA Limited, Rainham, Essex, RM13 8RH&lt;/div&gt; &lt;div&gt;&lt;/div&gt; &lt;div&gt;Carrier Machines&lt;/div&gt; &lt;div&gt;&lt;/div&gt; &lt;div&gt;Can be used for domestic storage or shipping purposes&lt;/div&gt; &lt;div&gt;&lt;/div&gt; &lt;div&gt;Refrigeration machine is fully PTI\u2019d (MOT\u2019d) before delivery&lt;/div&gt; &lt;div&gt;Sold with a major parts warranty&lt;/div&gt; &lt;div&gt;&lt;/div&gt; &lt;div&gt;Optional extras include, exterior repainting (as shown in photos), interior lights, man-trapped panic alarm, ramp &amp; lock box.&lt;/div&gt; &lt;div&gt;Can be set to a single temperature point from -25c to +25c&lt;/div&gt; &lt;div&gt;&lt;/div&gt; &lt;div&gt;Power requirements \u2013 3 phase 440v neutral &amp; earth on a 32amp motor rated breaker 5 pin socket&lt;/div&gt; &lt;div&gt;&lt;/div&gt; &lt;div&gt;&lt;b&gt;Delivery Nationwide to any site in the USA&lt;/b&gt; (delivery quotes available on request)&lt;/div&gt; &lt;div&gt;&lt;/div&gt; &lt;div&gt;The price is plus VAT and a VAT invoice will be provided at point of sale.&lt;/div&gt; &lt;div&gt;&lt;/div&gt; &lt;div&gt;Please contact Paul in our office for delivery prices and any technical questions you may have&lt;/div&gt;",
+    "description": "&lt;div&gt;&lt;b&gt;Used 40ft Hi Cube Refrigerated Reefer Containers For Sale&lt;/b&gt;&lt;/div&gt; &lt;div&gt;&lt;/div&gt; &lt;div&gt;1st Containers USA Limited, Rainham, Essex, RM13 8RH&lt;/div&gt; &lt;div&gt;&lt;/div&gt; &lt;div&gt;Carrier Machines&lt;/div&gt; &lt;div&gt;&lt;/div&gt; &lt;div&gt;Can be used for domestic storage or shipping purposes&lt;/div&gt; &lt;div&gt;&lt;/div&gt; &lt;div&gt;Refrigeration machine is fully PTI’d (MOT’d) before delivery&lt;/div&gt; &lt;div&gt;Sold with a major parts warranty&lt;/div&gt; &lt;div&gt;&lt;/div&gt; &lt;div&gt;Optional extras include, exterior repainting (as shown in photos), interior lights, man-trapped panic alarm, ramp &amp; lock box.&lt;/div&gt; &lt;div&gt;Can be set to a single temperature point from -25c to +25c&lt;/div&gt; &lt;div&gt;&lt;/div&gt; &lt;div&gt;Power requirements – 3 phase 440v neutral &amp; earth on a 32amp motor rated breaker 5 pin socket&lt;/div&gt; &lt;div&gt;&lt;/div&gt; &lt;div&gt;&lt;b&gt;Delivery Nationwide to any site in the USA&lt;/b&gt; (delivery quotes available on request)&lt;/div&gt; &lt;div&gt;&lt;/div&gt; &lt;div&gt;The price is plus VAT and a VAT invoice will be provided at point of sale.&lt;/div&gt; &lt;div&gt;&lt;/div&gt; &lt;div&gt;Please contact Paul in our office for delivery prices and any technical questions you may have&lt;/div&gt;",
     "inStock": true,
     "sku": "HSC-0178",
     "featured": false,
@@ -2697,7 +2477,7 @@
   {
     "id": "180",
     "slug": "40ft-high-cube-9-6-high-double-door-container-dd",
-    "name": "40ft High Cube (9\u2032 6\u2033 high) Double Door Container (DD)",
+    "name": "40ft High Cube (9′ 6″ high) Double Door Container (DD)",
     "category": "40 FT Shipping Containers",
     "categorySlug": "40ft-containers",
     "images": [
@@ -2706,7 +2486,7 @@
     "price": 3500,
     "onSale": false,
     "isVariable": false,
-    "description": "40ft High Cube (9\u2032 6\u2033 high) Double Door Container (DD) from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
+    "description": "40ft High Cube (9′ 6″ high) Double Door Container (DD) from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
     "inStock": true,
     "sku": "HSC-0180",
     "featured": false,
@@ -2717,7 +2497,7 @@
   {
     "id": "181",
     "slug": "40ft-high-cube-9-6-high-full-side-access-container",
-    "name": "40ft High Cube (9\u2032 6\u2033 high) Full Side Access Container",
+    "name": "40ft High Cube (9′ 6″ high) Full Side Access Container",
     "category": "40 FT Shipping Containers",
     "categorySlug": "40ft-containers",
     "images": [
@@ -2726,7 +2506,7 @@
     "price": 4000,
     "onSale": false,
     "isVariable": false,
-    "description": "40ft High Cube (9\u2032 6\u2033 high) Full Side Access Container from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
+    "description": "40ft High Cube (9′ 6″ high) Full Side Access Container from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
     "inStock": true,
     "sku": "HSC-0181",
     "featured": false,
@@ -2737,7 +2517,7 @@
   {
     "id": "182",
     "slug": "40ft-high-cube-container-one-trip-9ft-6-high-4",
-    "name": "40ft High Cube Container \u2013 One Trip (9ft 6\u2033 high)",
+    "name": "40ft High Cube Container – One Trip (9ft 6″ high)",
     "category": "40 FT Shipping Containers",
     "categorySlug": "40ft-containers",
     "images": [
@@ -2746,7 +2526,7 @@
     "price": 3400,
     "onSale": false,
     "isVariable": false,
-    "description": "40ft High Cube Container \u2013 One Trip (9ft 6\u2033 high) from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
+    "description": "40ft High Cube Container – One Trip (9ft 6″ high) from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
     "inStock": true,
     "sku": "HSC-0182",
     "featured": false,
@@ -2757,7 +2537,7 @@
   {
     "id": "183",
     "slug": "40ft-high-cube-container-one-trip-9ft-6-high-3",
-    "name": "40Ft High Cube Container \u2013 One Trip (9Ft 6\u2033 High)",
+    "name": "40Ft High Cube Container – One Trip (9Ft 6″ High)",
     "category": "40 FT Shipping Containers",
     "categorySlug": "40ft-containers",
     "images": [
@@ -2766,7 +2546,7 @@
     "price": 4320,
     "onSale": false,
     "isVariable": false,
-    "description": "40Ft High Cube Container \u2013 One Trip (9Ft 6\u2033 High) from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
+    "description": "40Ft High Cube Container – One Trip (9Ft 6″ High) from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
     "inStock": true,
     "sku": "HSC-0183",
     "featured": false,
@@ -2788,7 +2568,7 @@
     "price": 14000,
     "onSale": false,
     "isVariable": false,
-    "description": "&lt;p&gt;high cube 40\u2019 container open side one trip&lt;/p&gt; &lt;div&gt;located in New Bedford,Ma 02740&lt;/div&gt; &lt;div&gt;listed local&lt;/div&gt; &lt;div&gt;loading available&lt;/div&gt; &lt;div&gt;email me for a reasonable shipping quote&lt;/div&gt;",
+    "description": "&lt;p&gt;high cube 40’ container open side one trip&lt;/p&gt; &lt;div&gt;located in New Bedford,Ma 02740&lt;/div&gt; &lt;div&gt;listed local&lt;/div&gt; &lt;div&gt;loading available&lt;/div&gt; &lt;div&gt;email me for a reasonable shipping quote&lt;/div&gt;",
     "inStock": true,
     "sku": "HSC-0187",
     "featured": false,
@@ -2830,7 +2610,7 @@
     "price": 4500,
     "onSale": false,
     "isVariable": false,
-    "description": "&lt;h2&gt;40 ft Shipping Container:&lt;/h2&gt; &lt;p&gt;The 40 ft shipping container is one of the most widely used and standardized cargo containers in the transportation and logistics industry. Designed for the efficient movement of goods across various modes of transportation, it provides a robust and secure solution for the storage and shipment of a wide range of products.&lt;/p&gt; &lt;p&gt;Key Features:&lt;/p&gt; &lt;p&gt;1. Size and Dimensions:&lt;br /&gt; The 40 ft shipping container typically measures approximately 40 feet in length, 8 feet in width, and 8.5 feet in height. It offers a spacious internal volume, allowing for the accommodation of various types of cargo.&lt;/p&gt; &lt;p&gt;2. Construction:&lt;br /&gt; The container is constructed from durable and weather-resistant materials, such as corten steel. This ensures that the cargo remains well-protected from external elements and withstands harsh environmental conditions during transit.&lt;/p&gt; &lt;p&gt;3. Cargo Capacity:&lt;br /&gt; With its ample internal space, the 40 ft container can carry a significant volume of goods. It is capable of accommodating various types of cargo, including consumer goods, industrial equipment, machinery, electronics, textiles, and more.&lt;/p&gt; &lt;p&gt;4. Cargo Door Accessibility:&lt;br /&gt; The container is equipped with cargo doors at one end, providing easy access for loading and unloading goods. The doors are equipped with heavy-duty locking mechanisms to ensure the security of the cargo during transportation.&lt;/p&gt; &lt;p&gt;5. Intermodal Compatibility:&lt;br /&gt; The 40 ft shipping container is designed to be compatible with different modes of transportation. It can seamlessly transition from ships to trains to trucks, making it a versatile choice for intermodal transportation.&lt;/p&gt; &lt;p&gt;6. Standardization:&lt;br /&gt; The 40 ft container adheres to international standards set by the International Organization for Standardization (ISO). This standardization ensures consistency in size and design, allowing for easy stacking and efficient use of space on ships and storage yards.&lt;/p&gt; &lt;p&gt;7. Ventilation and Insulation:&lt;br /&gt; Depending on the cargo requirements, 40 ft containers can be equipped with ventilation systems to regulate temperature and air circulation. Additionally, insulation options are available for cargo that requires protection from extreme temperatures.&lt;/p&gt; &lt;p&gt;8. Customization:&lt;br /&gt; The container can be modified and customized to suit specific cargo needs. Optional features such as interior fittings, racking systems, shelving, and lighting can be added to optimize the use of available space.&lt;/p&gt; &lt;p&gt;Applications:&lt;/p&gt; &lt;p&gt;The 40 ft shipping container finds widespread applications across industries, including:&lt;/p&gt; &lt;p&gt;\u2013 International Shipping: It is a popular choice for containerized ocean freight, allowing the efficient transport of goods between different countries and continents.&lt;/p&gt; &lt;p&gt;\u2013 Storage and Warehousing: The container serves as a secure and cost-effective storage solution for businesses needing temporary or long-term warehousing.&lt;/p&gt; &lt;p&gt;\u2013 Moving and Relocation: Individuals and families often use 40 ft containers for moving household belongings and personal items across long distances.&lt;/p&gt; &lt;p&gt;\u2013 Retail and Trade: Businesses involved in import/export operations and retail distribution frequently utilize 40 ft containers to transport goods efficiently.&lt;/p&gt; &lt;p&gt;Overall, the 40 ft shipping container is a reliable and versatile option for businesses and individuals requiring an efficient and secure means of transporting and storing goods. Its standardized design and wide availability make it an essential component of modern global trade and logistics.&lt;/p&gt;",
+    "description": "&lt;h2&gt;40 ft Shipping Container:&lt;/h2&gt; &lt;p&gt;The 40 ft shipping container is one of the most widely used and standardized cargo containers in the transportation and logistics industry. Designed for the efficient movement of goods across various modes of transportation, it provides a robust and secure solution for the storage and shipment of a wide range of products.&lt;/p&gt; &lt;p&gt;Key Features:&lt;/p&gt; &lt;p&gt;1. Size and Dimensions:&lt;br /&gt; The 40 ft shipping container typically measures approximately 40 feet in length, 8 feet in width, and 8.5 feet in height. It offers a spacious internal volume, allowing for the accommodation of various types of cargo.&lt;/p&gt; &lt;p&gt;2. Construction:&lt;br /&gt; The container is constructed from durable and weather-resistant materials, such as corten steel. This ensures that the cargo remains well-protected from external elements and withstands harsh environmental conditions during transit.&lt;/p&gt; &lt;p&gt;3. Cargo Capacity:&lt;br /&gt; With its ample internal space, the 40 ft container can carry a significant volume of goods. It is capable of accommodating various types of cargo, including consumer goods, industrial equipment, machinery, electronics, textiles, and more.&lt;/p&gt; &lt;p&gt;4. Cargo Door Accessibility:&lt;br /&gt; The container is equipped with cargo doors at one end, providing easy access for loading and unloading goods. The doors are equipped with heavy-duty locking mechanisms to ensure the security of the cargo during transportation.&lt;/p&gt; &lt;p&gt;5. Intermodal Compatibility:&lt;br /&gt; The 40 ft shipping container is designed to be compatible with different modes of transportation. It can seamlessly transition from ships to trains to trucks, making it a versatile choice for intermodal transportation.&lt;/p&gt; &lt;p&gt;6. Standardization:&lt;br /&gt; The 40 ft container adheres to international standards set by the International Organization for Standardization (ISO). This standardization ensures consistency in size and design, allowing for easy stacking and efficient use of space on ships and storage yards.&lt;/p&gt; &lt;p&gt;7. Ventilation and Insulation:&lt;br /&gt; Depending on the cargo requirements, 40 ft containers can be equipped with ventilation systems to regulate temperature and air circulation. Additionally, insulation options are available for cargo that requires protection from extreme temperatures.&lt;/p&gt; &lt;p&gt;8. Customization:&lt;br /&gt; The container can be modified and customized to suit specific cargo needs. Optional features such as interior fittings, racking systems, shelving, and lighting can be added to optimize the use of available space.&lt;/p&gt; &lt;p&gt;Applications:&lt;/p&gt; &lt;p&gt;The 40 ft shipping container finds widespread applications across industries, including:&lt;/p&gt; &lt;p&gt;– International Shipping: It is a popular choice for containerized ocean freight, allowing the efficient transport of goods between different countries and continents.&lt;/p&gt; &lt;p&gt;– Storage and Warehousing: The container serves as a secure and cost-effective storage solution for businesses needing temporary or long-term warehousing.&lt;/p&gt; &lt;p&gt;– Moving and Relocation: Individuals and families often use 40 ft containers for moving household belongings and personal items across long distances.&lt;/p&gt; &lt;p&gt;– Retail and Trade: Businesses involved in import/export operations and retail distribution frequently utilize 40 ft containers to transport goods efficiently.&lt;/p&gt; &lt;p&gt;Overall, the 40 ft shipping container is a reliable and versatile option for businesses and individuals requiring an efficient and secure means of transporting and storing goods. Its standardized design and wide availability make it an essential component of modern global trade and logistics.&lt;/p&gt;",
     "inStock": true,
     "sku": "HSC-0190",
     "featured": false,
@@ -2862,7 +2642,7 @@
   {
     "id": "193",
     "slug": "40ft-super-freezer-76-f-to-30-f-460v-230v-3p-2",
-    "name": "40FT Super Freezer -76\u00b0F TO 30\u00b0F (460V/230V 3P)",
+    "name": "40FT Super Freezer -76°F TO 30°F (460V/230V 3P)",
     "category": "Refrigerated Containers",
     "categorySlug": "refrigerated-containers",
     "images": [
@@ -2871,7 +2651,7 @@
     "price": 8799,
     "onSale": false,
     "isVariable": false,
-    "description": "40FT Super Freezer -76\u00b0F TO 30\u00b0F (460V/230V 3P) from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
+    "description": "40FT Super Freezer -76°F TO 30°F (460V/230V 3P) from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
     "inStock": true,
     "sku": "HSC-0193",
     "featured": false,
@@ -3002,7 +2782,7 @@
   {
     "id": "202",
     "slug": "40ft-x-8ft-used-storage-container-standard",
-    "name": "40Ft X 8Ft Used Storage Container \u2013 Standard",
+    "name": "40Ft X 8Ft Used Storage Container – Standard",
     "category": "40 FT Shipping Containers",
     "categorySlug": "40ft-containers",
     "images": [
@@ -3011,7 +2791,7 @@
     "price": 1545,
     "onSale": false,
     "isVariable": false,
-    "description": "40Ft X 8Ft Used Storage Container \u2013 Standard from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
+    "description": "40Ft X 8Ft Used Storage Container – Standard from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
     "inStock": true,
     "sku": "HSC-0202",
     "featured": false,
@@ -3353,7 +3133,7 @@
     "price": 3990,
     "onSale": false,
     "isVariable": false,
-    "description": "&lt;h2 class=\"uppercase\"&gt;&lt;strong&gt;BICONS ISO CONTAINERS FOR SALE&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;&lt;a href=\"http://alibaba.com/\" target=\"_blank\" rel=\"noopener\"&gt;20ft Bicons&lt;/a&gt; can be converted into 2 complete 10ft L W X 8\u20196\u2019H standalone containers. At the time of manufacturing, they\u2019re connected to form and can be transported as one twenty-foot equivalent unit (TEU) which means it will efficiently fit into the space of a vessel.&lt;/p&gt; &lt;p&gt;They are, when separated, standalone containers, as opposed to a &lt;a href=\"https://sracontainers.com/product/duocon-one-tripper-10%e2%80%b2-10%e2%80%b2/\"&gt;duocon&lt;/a&gt;, which has to be divided and a panel joined for the complete 10ft parts. Simple to operate in a military theater pop-up exhibition or trade show retail space.&lt;/p&gt; &lt;p&gt;Usually, they aren\u2019t packed for transportation to the US therefore they are regarded as New upon their arrival.&lt;/p&gt; &lt;p&gt;There is no way that used or new 10 feet long containers will work to all ISO chassis. They need to be transported using the flatbed or stepdeck.&lt;/p&gt; &lt;h2 class=\"yikes-custom-woo-tab-title yikes-custom-woo-tab-title-benefits\"&gt;Benefits&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;As a temporary project solution, containers are durable and easy to transport from one event or jobsite to another.&lt;/li&gt; &lt;li&gt;Bicons are in like new condition as they do not need alterations or touch-up painting upon their arrival.&lt;/li&gt; &lt;li&gt;Decommissioned shipping containers are an environmentally and economically friendly alternative to costly brick and mortar construction.&lt;/li&gt; &lt;li&gt;Their ground level feature offers safety and convenience.&lt;/li&gt; &lt;li&gt;Lightweight they are manageable to stack or move at a construction site or military theater.&lt;/li&gt; &lt;/ul&gt; &lt;h2 class=\"yikes-custom-woo-tab-title yikes-custom-woo-tab-title-features\"&gt;Features&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;1.25 inch marine plywood floors treated to resist bugs and rodents.&lt;/li&gt; &lt;li&gt;Ashtray vents for air flow prevents condensation.&lt;/li&gt; &lt;li&gt;Factory blasted, primed and painted with marine grade paint systems for durability.&lt;/li&gt; &lt;li&gt;Fork pockets for empty lifting.&lt;/li&gt; &lt;li&gt;High security steel lockbox standard.&lt;/li&gt; &lt;li&gt;Lashing rings for securing material during transit.&lt;/li&gt; &lt;li&gt;Lifting blocks at each corner for overhead lifting.&lt;/li&gt; &lt;li&gt;Non-corrosive Corten 14 gauge steel construction.&lt;/li&gt; &lt;li&gt;Not compatible with an ISO chassis for transport. Must be moved on a flatbed.&lt;/li&gt; &lt;li&gt;Safe ground level access so no slippery stairs.&lt;/li&gt; &lt;li&gt;Stackable 9 high.&lt;/li&gt; &lt;li&gt;Vandal proof steel locking bar system on doors.&lt;/li&gt; &lt;li&gt;Watertight with heavy rubber gaskets around doors.&lt;/li&gt; &lt;/ul&gt; &lt;h2 class=\"yikes-custom-woo-tab-title yikes-custom-woo-tab-title-dimensions\"&gt;Dimensions&lt;/h2&gt; &lt;p&gt;**Dimensions are general and will vary based on the manufacturer\u2019s specifications. Please contact us for exact dimensions. **&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Exterior:&lt;/strong&gt;&lt;br /&gt; 10\u2019 L X 8ft W X 8\u20196\u201d H&lt;br /&gt; &lt;strong&gt;Interior:&lt;/strong&gt;&lt;br /&gt; 9\u20192\u201d L X 7\u20197\u201d W X 7\u20198\u201d H&lt;br /&gt; &lt;strong&gt;Door opening:&lt;/strong&gt;&lt;br /&gt; 7\u20196\u201d W X 7\u20194\u201d H&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Max Gross Weight&lt;/strong&gt;: 22,500 lbs&lt;br /&gt; &lt;strong&gt;Tare Weight:&lt;/strong&gt; 2875 lbs&lt;br /&gt; &lt;strong&gt;Cubic Capacity&lt;/strong&gt; 680 cubic ft&lt;/p&gt; &lt;h2 class=\"yikes-custom-woo-tab-title yikes-custom-woo-tab-title-applications\"&gt;Applications&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Concession Stands&lt;/li&gt; &lt;li&gt;Control Rooms for Industry + Government&lt;/li&gt; &lt;li&gt;Emergency Generator Stations&lt;/li&gt; &lt;li&gt;Excess seasonal inventory storage.&lt;/li&gt; &lt;li&gt;Fireproof storage of: files, cars, boats, power machinery, furniture +&lt;/li&gt; &lt;li&gt;Garages.&lt;/li&gt; &lt;li&gt;Kiosk\u2019s for Retail Space&lt;/li&gt; &lt;li&gt;Permanent or Temporary Housing&lt;/li&gt; &lt;li&gt;Portable Office&lt;/li&gt; &lt;/ul&gt;",
+    "description": "&lt;h2 class=\"uppercase\"&gt;&lt;strong&gt;BICONS ISO CONTAINERS FOR SALE&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;&lt;a href=\"http://alibaba.com/\" target=\"_blank\" rel=\"noopener\"&gt;20ft Bicons&lt;/a&gt; can be converted into 2 complete 10ft L W X 8’6’H standalone containers. At the time of manufacturing, they’re connected to form and can be transported as one twenty-foot equivalent unit (TEU) which means it will efficiently fit into the space of a vessel.&lt;/p&gt; &lt;p&gt;They are, when separated, standalone containers, as opposed to a &lt;a href=\"https://sracontainers.com/product/duocon-one-tripper-10%e2%80%b2-10%e2%80%b2/\"&gt;duocon&lt;/a&gt;, which has to be divided and a panel joined for the complete 10ft parts. Simple to operate in a military theater pop-up exhibition or trade show retail space.&lt;/p&gt; &lt;p&gt;Usually, they aren’t packed for transportation to the US therefore they are regarded as New upon their arrival.&lt;/p&gt; &lt;p&gt;There is no way that used or new 10 feet long containers will work to all ISO chassis. They need to be transported using the flatbed or stepdeck.&lt;/p&gt; &lt;h2 class=\"yikes-custom-woo-tab-title yikes-custom-woo-tab-title-benefits\"&gt;Benefits&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;As a temporary project solution, containers are durable and easy to transport from one event or jobsite to another.&lt;/li&gt; &lt;li&gt;Bicons are in like new condition as they do not need alterations or touch-up painting upon their arrival.&lt;/li&gt; &lt;li&gt;Decommissioned shipping containers are an environmentally and economically friendly alternative to costly brick and mortar construction.&lt;/li&gt; &lt;li&gt;Their ground level feature offers safety and convenience.&lt;/li&gt; &lt;li&gt;Lightweight they are manageable to stack or move at a construction site or military theater.&lt;/li&gt; &lt;/ul&gt; &lt;h2 class=\"yikes-custom-woo-tab-title yikes-custom-woo-tab-title-features\"&gt;Features&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;1.25 inch marine plywood floors treated to resist bugs and rodents.&lt;/li&gt; &lt;li&gt;Ashtray vents for air flow prevents condensation.&lt;/li&gt; &lt;li&gt;Factory blasted, primed and painted with marine grade paint systems for durability.&lt;/li&gt; &lt;li&gt;Fork pockets for empty lifting.&lt;/li&gt; &lt;li&gt;High security steel lockbox standard.&lt;/li&gt; &lt;li&gt;Lashing rings for securing material during transit.&lt;/li&gt; &lt;li&gt;Lifting blocks at each corner for overhead lifting.&lt;/li&gt; &lt;li&gt;Non-corrosive Corten 14 gauge steel construction.&lt;/li&gt; &lt;li&gt;Not compatible with an ISO chassis for transport. Must be moved on a flatbed.&lt;/li&gt; &lt;li&gt;Safe ground level access so no slippery stairs.&lt;/li&gt; &lt;li&gt;Stackable 9 high.&lt;/li&gt; &lt;li&gt;Vandal proof steel locking bar system on doors.&lt;/li&gt; &lt;li&gt;Watertight with heavy rubber gaskets around doors.&lt;/li&gt; &lt;/ul&gt; &lt;h2 class=\"yikes-custom-woo-tab-title yikes-custom-woo-tab-title-dimensions\"&gt;Dimensions&lt;/h2&gt; &lt;p&gt;**Dimensions are general and will vary based on the manufacturer’s specifications. Please contact us for exact dimensions. **&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Exterior:&lt;/strong&gt;&lt;br /&gt; 10’ L X 8ft W X 8’6” H&lt;br /&gt; &lt;strong&gt;Interior:&lt;/strong&gt;&lt;br /&gt; 9’2” L X 7’7” W X 7’8” H&lt;br /&gt; &lt;strong&gt;Door opening:&lt;/strong&gt;&lt;br /&gt; 7’6” W X 7’4” H&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Max Gross Weight&lt;/strong&gt;: 22,500 lbs&lt;br /&gt; &lt;strong&gt;Tare Weight:&lt;/strong&gt; 2875 lbs&lt;br /&gt; &lt;strong&gt;Cubic Capacity&lt;/strong&gt; 680 cubic ft&lt;/p&gt; &lt;h2 class=\"yikes-custom-woo-tab-title yikes-custom-woo-tab-title-applications\"&gt;Applications&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Concession Stands&lt;/li&gt; &lt;li&gt;Control Rooms for Industry + Government&lt;/li&gt; &lt;li&gt;Emergency Generator Stations&lt;/li&gt; &lt;li&gt;Excess seasonal inventory storage.&lt;/li&gt; &lt;li&gt;Fireproof storage of: files, cars, boats, power machinery, furniture +&lt;/li&gt; &lt;li&gt;Garages.&lt;/li&gt; &lt;li&gt;Kiosk’s for Retail Space&lt;/li&gt; &lt;li&gt;Permanent or Temporary Housing&lt;/li&gt; &lt;li&gt;Portable Office&lt;/li&gt; &lt;/ul&gt;",
     "inStock": true,
     "sku": "HSC-0220",
     "featured": false,
@@ -3564,7 +3344,7 @@
   {
     "id": "234",
     "slug": "duocon-one-tripper-10-10-steel-shipping-containers",
-    "name": "DuoCon One-tripper (10\u2032 +10\u2032) Steel Shipping Containers",
+    "name": "DuoCon One-tripper (10′ +10′) Steel Shipping Containers",
     "category": "Shipping Containers",
     "categorySlug": "shipping-containers",
     "images": [
@@ -3575,7 +3355,7 @@
     "price": 5420,
     "onSale": false,
     "isVariable": false,
-    "description": "&lt;h2 class=\"uppercase\"&gt;&lt;strong&gt;DUOCON ONE-TRIPPER (10\u2032 +10\u2032) STEEL SHIPPING CONTAINERS DESCRIPTION&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;New DuoCon &lt;a href=\"http://wikipedia.com/\" target=\"_blank\" rel=\"noopener\"&gt;steel shipping containers&lt;/a&gt; are 20 feet long. When the container arrives at our facility, it is designed to be cut in half so that internal panels, which are tack welded to the walls, can be installed in the open ends. After that, touch-up paint is applied, and you\u2019re left with two new 10-foot containers.&lt;/p&gt; &lt;p&gt;This configuration enables a foreign shipper to fully load the container, saving the American client the cost of overseas shipping. Each new &lt;a href=\"https://sracontainers.com/product/10ft-long-portable-offices-workshops/\"&gt;10ft container&lt;/a&gt; includes the original two swing doors, two sets of fork pockets, and steel corner casting blocks for overhead lifting.&lt;/p&gt; &lt;p&gt;Neither new nor used 10ft containers are compatible with any ISO chassis. They must be moved using a flatbed or stepdeck trailer.&lt;/p&gt; &lt;h2 class=\"yikes-custom-woo-tab-title yikes-custom-woo-tab-title-benefits\"&gt;Benefits&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;As a temporary project solution, containers are durable and easy to transport from one event or jobsite to another.&lt;/li&gt; &lt;li&gt;Conversion possibilities are endless: guard shack, office, portable battery pack, etc.&lt;/li&gt; &lt;li&gt;Decommissioned shipping containers are an environmentally and economically friendly alternative to costly brick and mortar construction.&lt;/li&gt; &lt;li&gt;Lightweight, they are manageable to stack or move at a construction site or military theater.&lt;/li&gt; &lt;li&gt;Their ground level feature offers safety and convenience.&lt;/li&gt; &lt;/ul&gt; &lt;h2 class=\"yikes-custom-woo-tab-title yikes-custom-woo-tab-title-features\"&gt;Features&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;1.25 inch marine plywood floors treated to resist bugs and rodents.&lt;/li&gt; &lt;li&gt;Ashtray vents for air flow prevents condensation.&lt;/li&gt; &lt;li&gt;Factory blasted, primed and painted with marine grade paint systems for durability.&lt;/li&gt; &lt;li&gt;Fork pockets for empty lifting.&lt;/li&gt; &lt;li&gt;High security steel lockbox standard.&lt;/li&gt; &lt;li&gt;Lashing rings for securing material during transit.&lt;/li&gt; &lt;li&gt;Lifting blocks at each corner for overhead lifting.&lt;/li&gt; &lt;li&gt;Non-corrosive Corten 14 gauge steel construction.&lt;/li&gt; &lt;li&gt;Safe ground level access so no slippery stairs.&lt;/li&gt; &lt;li&gt;Stackable 9 high.&lt;/li&gt; &lt;li&gt;Vandal proof steel locking bar system on doors.&lt;/li&gt; &lt;li&gt;Watertight with heavy rubber gaskets around doors.&lt;/li&gt; &lt;/ul&gt; &lt;h2 class=\"yikes-custom-woo-tab-title yikes-custom-woo-tab-title-dimensions\"&gt;Dimensions&lt;/h2&gt; &lt;p&gt;**Dimensions are general and will vary based on the manufacturer\u2019s specifications. Please contact us for exact dimensions. **&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Exterior:&lt;/strong&gt;&lt;br /&gt; 10\u2019 L X 8ft W X 8\u20196\u201d H&lt;br /&gt; &lt;strong&gt;Interior:&lt;/strong&gt;&lt;br /&gt; 9\u20192\u201d L X 7\u20197\u201d W X 7\u20198\u201d H&lt;br /&gt; &lt;strong&gt;Door Opening:&lt;/strong&gt;&lt;br /&gt; 7\u20196\u201d W X 7\u20194\u201d H&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Max Gross Weight&lt;/strong&gt;: 22,500 lbs&lt;br /&gt; &lt;strong&gt;Tare Weight: &lt;/strong&gt; 2875 lbs&lt;br /&gt; &lt;strong&gt;Cubic Capacity&lt;/strong&gt; 680 cubic ft&lt;/p&gt; &lt;h2 class=\"yikes-custom-woo-tab-title yikes-custom-woo-tab-title-applications\"&gt;Applications&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Concession Stands&lt;/li&gt; &lt;li&gt;Control Rooms for Industry + Government&lt;/li&gt; &lt;li&gt;Emergency Generator Stations&lt;/li&gt; &lt;li&gt;Excess seasonal inventory storage.&lt;/li&gt; &lt;li&gt;Fireproof storage of: files, cars, boats, power machinery, furniture +&lt;/li&gt; &lt;li&gt;Garages.&lt;/li&gt; &lt;li&gt;Kiosk\u2019s for Retail Space&lt;/li&gt; &lt;li&gt;Permanent or Temporary Housing&lt;/li&gt; &lt;li&gt;Portable Office&lt;/li&gt; &lt;/ul&gt;",
+    "description": "&lt;h2 class=\"uppercase\"&gt;&lt;strong&gt;DUOCON ONE-TRIPPER (10′ +10′) STEEL SHIPPING CONTAINERS DESCRIPTION&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;New DuoCon &lt;a href=\"http://wikipedia.com/\" target=\"_blank\" rel=\"noopener\"&gt;steel shipping containers&lt;/a&gt; are 20 feet long. When the container arrives at our facility, it is designed to be cut in half so that internal panels, which are tack welded to the walls, can be installed in the open ends. After that, touch-up paint is applied, and you’re left with two new 10-foot containers.&lt;/p&gt; &lt;p&gt;This configuration enables a foreign shipper to fully load the container, saving the American client the cost of overseas shipping. Each new &lt;a href=\"https://sracontainers.com/product/10ft-long-portable-offices-workshops/\"&gt;10ft container&lt;/a&gt; includes the original two swing doors, two sets of fork pockets, and steel corner casting blocks for overhead lifting.&lt;/p&gt; &lt;p&gt;Neither new nor used 10ft containers are compatible with any ISO chassis. They must be moved using a flatbed or stepdeck trailer.&lt;/p&gt; &lt;h2 class=\"yikes-custom-woo-tab-title yikes-custom-woo-tab-title-benefits\"&gt;Benefits&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;As a temporary project solution, containers are durable and easy to transport from one event or jobsite to another.&lt;/li&gt; &lt;li&gt;Conversion possibilities are endless: guard shack, office, portable battery pack, etc.&lt;/li&gt; &lt;li&gt;Decommissioned shipping containers are an environmentally and economically friendly alternative to costly brick and mortar construction.&lt;/li&gt; &lt;li&gt;Lightweight, they are manageable to stack or move at a construction site or military theater.&lt;/li&gt; &lt;li&gt;Their ground level feature offers safety and convenience.&lt;/li&gt; &lt;/ul&gt; &lt;h2 class=\"yikes-custom-woo-tab-title yikes-custom-woo-tab-title-features\"&gt;Features&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;1.25 inch marine plywood floors treated to resist bugs and rodents.&lt;/li&gt; &lt;li&gt;Ashtray vents for air flow prevents condensation.&lt;/li&gt; &lt;li&gt;Factory blasted, primed and painted with marine grade paint systems for durability.&lt;/li&gt; &lt;li&gt;Fork pockets for empty lifting.&lt;/li&gt; &lt;li&gt;High security steel lockbox standard.&lt;/li&gt; &lt;li&gt;Lashing rings for securing material during transit.&lt;/li&gt; &lt;li&gt;Lifting blocks at each corner for overhead lifting.&lt;/li&gt; &lt;li&gt;Non-corrosive Corten 14 gauge steel construction.&lt;/li&gt; &lt;li&gt;Safe ground level access so no slippery stairs.&lt;/li&gt; &lt;li&gt;Stackable 9 high.&lt;/li&gt; &lt;li&gt;Vandal proof steel locking bar system on doors.&lt;/li&gt; &lt;li&gt;Watertight with heavy rubber gaskets around doors.&lt;/li&gt; &lt;/ul&gt; &lt;h2 class=\"yikes-custom-woo-tab-title yikes-custom-woo-tab-title-dimensions\"&gt;Dimensions&lt;/h2&gt; &lt;p&gt;**Dimensions are general and will vary based on the manufacturer’s specifications. Please contact us for exact dimensions. **&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Exterior:&lt;/strong&gt;&lt;br /&gt; 10’ L X 8ft W X 8’6” H&lt;br /&gt; &lt;strong&gt;Interior:&lt;/strong&gt;&lt;br /&gt; 9’2” L X 7’7” W X 7’8” H&lt;br /&gt; &lt;strong&gt;Door Opening:&lt;/strong&gt;&lt;br /&gt; 7’6” W X 7’4” H&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Max Gross Weight&lt;/strong&gt;: 22,500 lbs&lt;br /&gt; &lt;strong&gt;Tare Weight: &lt;/strong&gt; 2875 lbs&lt;br /&gt; &lt;strong&gt;Cubic Capacity&lt;/strong&gt; 680 cubic ft&lt;/p&gt; &lt;h2 class=\"yikes-custom-woo-tab-title yikes-custom-woo-tab-title-applications\"&gt;Applications&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Concession Stands&lt;/li&gt; &lt;li&gt;Control Rooms for Industry + Government&lt;/li&gt; &lt;li&gt;Emergency Generator Stations&lt;/li&gt; &lt;li&gt;Excess seasonal inventory storage.&lt;/li&gt; &lt;li&gt;Fireproof storage of: files, cars, boats, power machinery, furniture +&lt;/li&gt; &lt;li&gt;Garages.&lt;/li&gt; &lt;li&gt;Kiosk’s for Retail Space&lt;/li&gt; &lt;li&gt;Permanent or Temporary Housing&lt;/li&gt; &lt;li&gt;Portable Office&lt;/li&gt; &lt;/ul&gt;",
     "inStock": true,
     "sku": "HSC-0234",
     "featured": false,
@@ -3746,7 +3526,7 @@
   {
     "id": "243",
     "slug": "refrigerated-storage-containers-reefers-3",
-    "name": "Refrigerated Storage Containers \u2013 Reefers",
+    "name": "Refrigerated Storage Containers – Reefers",
     "category": "Refrigerated Containers",
     "categorySlug": "refrigerated-containers",
     "images": [
@@ -3755,7 +3535,7 @@
     "price": 6480,
     "onSale": false,
     "isVariable": false,
-    "description": "Refrigerated Storage Containers \u2013 Reefers from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
+    "description": "Refrigerated Storage Containers – Reefers from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
     "inStock": true,
     "sku": "HSC-0243",
     "featured": true,
@@ -3807,7 +3587,7 @@
   {
     "id": "249",
     "slug": "shipping-container-cafe-container-restaurants",
-    "name": "Shipping Container Cafe \u2013 Container Restaurants",
+    "name": "Shipping Container Cafe – Container Restaurants",
     "category": "Shipping Containers",
     "categorySlug": "shipping-containers",
     "images": [
@@ -3816,7 +3596,7 @@
     "price": 7342,
     "onSale": false,
     "isVariable": false,
-    "description": "Shipping Container Cafe \u2013 Container Restaurants from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
+    "description": "Shipping Container Cafe – Container Restaurants from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
     "inStock": true,
     "sku": "HSC-0249",
     "featured": false,
@@ -3986,26 +3766,6 @@
     "reviews": 19
   },
   {
-    "id": "258",
-    "slug": "site-office-cabin-manager-chair",
-    "name": "Site Office Cabin Manager Chair",
-    "category": "Site Cabins & Offices",
-    "categorySlug": "site-cabins-offices",
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0699/7688/3279/files/001-manager-chair-for-site-office-960x640-1-300x200.webp?v=1773738316"
-    ],
-    "price": 81,
-    "onSale": false,
-    "isVariable": false,
-    "description": "Site Office Cabin Manager Chair from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
-    "inStock": true,
-    "sku": "HSC-0258",
-    "featured": false,
-    "newArrival": true,
-    "rating": 4.7,
-    "reviews": 8
-  },
-  {
     "id": "259",
     "slug": "site-office-single-pedestal-desk-1500m",
     "name": "Site Office Single Pedestal Desk (1500m)",
@@ -4044,148 +3804,6 @@
     "newArrival": true,
     "rating": 4.9,
     "reviews": 10
-  },
-  {
-    "id": "261",
-    "slug": "site-towable-water-bowser",
-    "name": "Site Towable Water Bowser",
-    "category": "Toilet & Utility Units",
-    "categorySlug": "toilet-utility-units",
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0699/7688/3279/files/WhatsApp-Image-2020-03-27-at-07.25.49-300x200.webp?v=1773739181"
-    ],
-    "price": 1800,
-    "onSale": false,
-    "isVariable": false,
-    "description": "Site Towable Water Bowser from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
-    "inStock": true,
-    "sku": "HSC-0261",
-    "featured": false,
-    "newArrival": true,
-    "rating": 4.6,
-    "reviews": 23
-  },
-  {
-    "id": "262",
-    "slug": "standard-40-ft-x-8-ft-shipping-containers",
-    "name": "Standard 40 Ft x 8 Ft Shipping Containers",
-    "category": "40 FT Shipping Containers",
-    "categorySlug": "40ft-containers",
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0699/7688/3279/files/s-l500.png?v=1773652527",
-      "https://cdn.shopify.com/s/files/1/0699/7688/3279/files/s-l500-1-1-150x150.png?v=1773652527",
-      "https://cdn.shopify.com/s/files/1/0699/7688/3279/files/s-l500-3-150x150.png?v=1773652527"
-    ],
-    "price": 2700,
-    "onSale": false,
-    "isVariable": false,
-    "description": "&lt;div&gt; &lt;div&gt;&lt;b&gt;STANDARD 40\u2033FT x 8\u2033FT SHIPPING CONTAINERS&lt;/b&gt;&lt;/div&gt; &lt;/div&gt; &lt;div&gt;&lt;b&gt;MANUFACTURE: &lt;/b&gt;&lt;b&gt;N/A&lt;/b&gt;&lt;/div&gt; &lt;div&gt;&lt;b&gt;MODEL: N/A&lt;/b&gt;&lt;/div&gt; &lt;div&gt;&lt;b&gt;CONDITION: USED/GOOD CONDITION &lt;/b&gt;&lt;/div&gt; &lt;div&gt;&lt;b&gt;SPECIFACTIONS:&lt;/b&gt;&lt;/div&gt; &lt;div&gt; &lt;ul&gt; &lt;li&gt;&lt;b&gt;MEASUREMENTS: (40\u2033FT x 8\u2033FT) &lt;/b&gt;&lt;/li&gt; &lt;/ul&gt; &lt;div&gt;!!!IMPORTANT INFO!!!&lt;/div&gt; &lt;ul&gt; &lt;li&gt;MANUFACTURES: MULITIPLE AVALIBLE&lt;/li&gt; &lt;li&gt;COLORS: MULTIPLE AVALIBLE&lt;/li&gt; &lt;li&gt;GRADES: NEW/ USED/ DAMAGED AVALIBLE&lt;/li&gt; &lt;/ul&gt; &lt;/div&gt;",
-    "inStock": true,
-    "sku": "HSC-0262",
-    "featured": false,
-    "newArrival": true,
-    "rating": 4.3,
-    "reviews": 12
-  },
-  {
-    "id": "263",
-    "slug": "steel-staircase-with-landing-handrails",
-    "name": "Steel Staircase With Landing & Handrails",
-    "category": "Accessories",
-    "categorySlug": "accessories",
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0699/7688/3279/files/WhatsApp-Image-2020-03-28-at-12.58.16-300x200.webp?v=1773739289"
-    ],
-    "price": 1400,
-    "onSale": false,
-    "isVariable": false,
-    "description": "Steel Staircase With Landing & Handrails from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
-    "inStock": true,
-    "sku": "HSC-0263",
-    "featured": false,
-    "newArrival": true,
-    "rating": 4.8,
-    "reviews": 25
-  },
-  {
-    "id": "264",
-    "slug": "twist-locks-set-of-4",
-    "name": "Twist Locks (Set of 4)",
-    "category": "Accessories",
-    "categorySlug": "accessories",
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0699/7688/3279/files/1030-twist-locks-960x640-1-600x400-1-2-300x200.webp?v=1773736530"
-    ],
-    "price": 80,
-    "onSale": false,
-    "isVariable": false,
-    "description": "Twist Locks (Set of 4) from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
-    "inStock": true,
-    "sku": "HSC-0264",
-    "featured": false,
-    "newArrival": true,
-    "rating": 4.5,
-    "reviews": 14
-  },
-  {
-    "id": "265",
-    "slug": "used-10ft-cut-down-container",
-    "name": "Used 10Ft Cut Down Container",
-    "category": "10 FT Shipping Containers",
-    "categorySlug": "10ft-containers",
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0699/7688/3279/files/337-10ft-Cut-Down-Used-Container-960x640-2-1.jpg?v=1773734598"
-    ],
-    "price": 2200,
-    "onSale": false,
-    "isVariable": false,
-    "description": "Used 10Ft Cut Down Container from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
-    "inStock": true,
-    "sku": "HSC-0265",
-    "featured": false,
-    "newArrival": true,
-    "rating": 4.2,
-    "reviews": 3
-  },
-  {
-    "id": "266",
-    "slug": "used-20ft-high-cube-container-grade-a-1",
-    "name": "Used 20ft High Cube Container \u2013 Grade A",
-    "category": "20 FT Shipping Containers",
-    "categorySlug": "20ft-containers",
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0699/7688/3279/files/20-ft-double-door-3-1-300x225.webp?v=1773739672"
-    ],
-    "price": 2100,
-    "onSale": false,
-    "isVariable": false,
-    "description": "Used 20ft High Cube Container \u2013 Grade A from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
-    "inStock": true,
-    "sku": "HSC-0266",
-    "featured": false,
-    "newArrival": true,
-    "rating": 4.7,
-    "reviews": 16
-  },
-  {
-    "id": "267",
-    "slug": "used-20ft-high-cube-container-grade-a",
-    "name": "Used 20Ft High Cube Container \u2013 Grade A",
-    "category": "20 FT Shipping Containers",
-    "categorySlug": "20ft-containers",
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0699/7688/3279/files/363-20ft-used-high-cube-grade-a-960x640-1-600x400-1-510x340.webp?v=1773736562"
-    ],
-    "price": 2450,
-    "onSale": false,
-    "isVariable": false,
-    "description": "Used 20Ft High Cube Container \u2013 Grade A from Highend Shipping Containers. Contact us for availability, delivery details, and site requirements.",
-    "inStock": true,
-    "sku": "HSC-0267",
-    "featured": false,
-    "newArrival": true,
-    "rating": 4.4,
-    "reviews": 5
   },
   {
     "id": "268",
@@ -4237,7 +3855,7 @@
       "images/container-001.jpg"
     ],
     "price": 4500,
-    "priceRange": "$4,500\u2013$7,800",
+    "priceRange": "$4,500–$7,800",
     "onSale": false,
     "isVariable": true,
     "description": "Compact 10 FT Standard Container perfect for small spaces and storage needs. Durable steel construction with weatherproof design.",
@@ -4258,7 +3876,7 @@
       "images/container-009.jpg"
     ],
     "price": 2000,
-    "priceRange": "$2,000\u2013$6,000",
+    "priceRange": "$2,000–$6,000",
     "onSale": false,
     "isVariable": true,
     "description": "Popular 20 FT Standard Container ideal for most shipping and storage applications. High-grade steel with secure locking system.",
@@ -4279,7 +3897,7 @@
       "images/container-003.jpg"
     ],
     "price": 2700,
-    "priceRange": "$2,700\u2013$8,000",
+    "priceRange": "$2,700–$8,000",
     "onSale": false,
     "isVariable": true,
     "description": "Premium 40 FT Standard Container offering maximum cargo capacity. Built with reinforced steel for heavy-duty applications.",
@@ -4300,7 +3918,7 @@
       "images/container-007.jpg"
     ],
     "price": 3000,
-    "priceRange": "$3,000\u2013$8,800",
+    "priceRange": "$3,000–$8,800",
     "onSale": false,
     "isVariable": true,
     "description": "40 FT High Cube Container with extra 12 inches of height for tall cargo. Premium construction suitable for offices and storage.",
@@ -4321,7 +3939,7 @@
       "images/container-008.jpg"
     ],
     "price": 9000,
-    "priceRange": "$9,000\u2013$44,000+",
+    "priceRange": "$9,000–$44,000+",
     "onSale": false,
     "isVariable": true,
     "description": "High-efficiency Refrigerated (Reefer) Container for temperature-sensitive cargo. Advanced cooling system with precise temperature control.",
@@ -4451,8 +4069,7 @@
     "newArrival": true,
     "rating": 4.8,
     "reviews": 15
-  }
-  ,
+  },
   {
     "id": "281",
     "slug": "executive-office-chair-with-footrest",
@@ -4513,46 +4130,6 @@
     "newArrival": true,
     "rating": 4.5,
     "reviews": 0
-  },
-  {
-    "id": "284",
-    "slug": "site-water-bowser-trailer-4000l",
-    "name": "Site Water Bowser Trailer 4000L",
-    "category": "Toilet & Utility Units",
-    "categorySlug": "toilet-utility-units",
-    "images": [
-      "images/site-water-bowser.jpg"
-    ],
-    "price": 1980,
-    "onSale": false,
-    "isVariable": false,
-    "description": "Towable site water bowser trailer with 4000L capacity. Built for construction and event sites with a durable chassis, secure fill access and easy hitching. Contact us for delivery and site set-up.",
-    "inStock": true,
-    "sku": "HSC-0284",
-    "featured": false,
-    "newArrival": true,
-    "rating": 4.6,
-    "reviews": 4
-  },
-  {
-    "id": "285",
-    "slug": "steel-access-staircase-for-container-platform",
-    "name": "Steel Access Staircase for Container Platform",
-    "category": "Accessories",
-    "categorySlug": "accessories",
-    "images": [
-      "images/steel-access-staircase.jpg"
-    ],
-    "price": 1750,
-    "onSale": false,
-    "isVariable": false,
-    "description": "Heavy-duty steel access staircase with landing and handrails for container platforms and temporary site access. Powder coated for durability and built for repeated site use.",
-    "inStock": true,
-    "sku": "HSC-0285",
-    "featured": false,
-    "newArrival": true,
-    "rating": 4.5,
-    "reviews": 2
   },
   {
     "id": "286",
