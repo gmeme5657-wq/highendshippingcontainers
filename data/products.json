@@ -4452,4 +4452,231 @@
     "rating": 4.8,
     "reviews": 15
   }
+  ,
+  {
+    "id": "281",
+    "slug": "executive-office-chair-with-footrest",
+    "name": "Executive Office Chair with Retractable Footrest",
+    "category": "Site Cabins & Offices",
+    "categorySlug": "site-cabins-offices",
+    "images": [
+      "images/executive-office-chair.jpg",
+      "images/executive-office-chair-2.jpg"
+    ],
+    "price": 129,
+    "onSale": false,
+    "isVariable": false,
+    "description": "Comfortable executive-style office chair upholstered in black faux leather with high back support and retractable footrest — ideal for site offices and managers. Durable frame with tilt and height adjustment. Contact us for bulk orders and delivery details.",
+    "inStock": true,
+    "sku": "HSC-0281",
+    "featured": false,
+    "newArrival": true,
+    "rating": 4.6,
+    "reviews": 3
+  },
+  {
+    "id": "282",
+    "slug": "20ft-converted-office-container-glass-front",
+    "name": "20ft Converted Office Container (Glass Front)",
+    "category": "Container Offices",
+    "categorySlug": "container-offices",
+    "images": [
+      "images/converted-office-20ft.jpg"
+    ],
+    "price": 8200,
+    "onSale": false,
+    "isVariable": false,
+    "description": "20ft shipping container converted into a ready-to-use office with large glass sliding doors and windows. Perfect for site offices, pop-up shops or on-site meeting rooms. Supplied with insulation and finished interior. Contact us for delivery and customization options.",
+    "inStock": true,
+    "sku": "HSC-0282",
+    "featured": false,
+    "newArrival": true,
+    "rating": 4.7,
+    "reviews": 1
+  },
+  {
+    "id": "283",
+    "slug": "modular-bathroom-pod-compact",
+    "name": "Compact Modular Bathroom Pod",
+    "category": "Toilet & Utility Units",
+    "categorySlug": "toilet-utility-units",
+    "images": [
+      "images/modular-bathroom-pod.jpg"
+    ],
+    "price": 2150,
+    "onSale": false,
+    "isVariable": false,
+    "description": "Self-contained compact bathroom pod with shower, toilet and basin — suited to conversion projects and modular cabins. Supplied pre-plumbed where possible; contact us for site requirements and delivery.",
+    "inStock": true,
+    "sku": "HSC-0283",
+    "featured": false,
+    "newArrival": true,
+    "rating": 4.5,
+    "reviews": 0
+  },
+  {
+    "id": "284",
+    "slug": "site-water-bowser-trailer-4000l",
+    "name": "Site Water Bowser Trailer 4000L",
+    "category": "Toilet & Utility Units",
+    "categorySlug": "toilet-utility-units",
+    "images": [
+      "images/site-water-bowser.jpg"
+    ],
+    "price": 1980,
+    "onSale": false,
+    "isVariable": false,
+    "description": "Towable site water bowser trailer with 4000L capacity. Built for construction and event sites with a durable chassis, secure fill access and easy hitching. Contact us for delivery and site set-up.",
+    "inStock": true,
+    "sku": "HSC-0284",
+    "featured": false,
+    "newArrival": true,
+    "rating": 4.6,
+    "reviews": 4
+  },
+  {
+    "id": "285",
+    "slug": "steel-access-staircase-for-container-platform",
+    "name": "Steel Access Staircase for Container Platform",
+    "category": "Accessories",
+    "categorySlug": "accessories",
+    "images": [
+      "images/steel-access-staircase.jpg"
+    ],
+    "price": 1750,
+    "onSale": false,
+    "isVariable": false,
+    "description": "Heavy-duty steel access staircase with landing and handrails for container platforms and temporary site access. Powder coated for durability and built for repeated site use.",
+    "inStock": true,
+    "sku": "HSC-0285",
+    "featured": false,
+    "newArrival": true,
+    "rating": 4.5,
+    "reviews": 2
+  },
+  {
+    "id": "286",
+    "slug": "power-equipment-container-10ft",
+    "name": "10Ft Power & Equipment Container",
+    "category": "Power & Equipment Containers",
+    "categorySlug": "power-equipment-containers",
+    "images": [
+      "images/power-equipment-container.jpg"
+    ],
+    "price": 9800,
+    "onSale": false,
+    "isVariable": false,
+    "description": "10ft container built for electrical equipment and site services, fitted with an external control panel and secure access door. Ideal for remote power, telecom, and utilities installations.",
+    "inStock": true,
+    "sku": "HSC-0286",
+    "featured": false,
+    "newArrival": true,
+    "rating": 4.7,
+    "reviews": 1
+  },
+  {
+    "id": "287",
+    "slug": "modular-site-container-unit",
+    "name": "Modular Site Container Unit",
+    "category": "Container Offices",
+    "categorySlug": "container-offices",
+    "images": [
+      "images/modular-site-container.jpg",
+      "images/modular-site-container-2.jpg"
+    ],
+    "price": 7200,
+    "onSale": false,
+    "isVariable": false,
+    "description": "Self-contained modular site container unit with secure entry, clear sightlines, and flexible interior layout. Ideal for temporary offices, site management, or meeting spaces on construction and event sites.",
+    "inStock": true,
+    "sku": "HSC-0287",
+    "featured": false,
+    "newArrival": true,
+    "rating": 4.6,
+    "reviews": 5
+  },
+  {
+    "id": "288",
+    "slug": "portable-site-storage-locker",
+    "name": "Portable Site Storage Locker",
+    "category": "Accessories",
+    "categorySlug": "accessories",
+    "images": [
+      "images/site-storage-locker.jpg",
+      "images/site-storage-locker-2.jpg"
+    ],
+    "price": 1550,
+    "onSale": false,
+    "isVariable": false,
+    "description": "Secure portable storage locker designed for tools, equipment, and materials on busy sites. Built from heavy gauge steel with weatherproof seals and lock-ready doors.",
+    "inStock": true,
+    "sku": "HSC-0288",
+    "featured": false,
+    "newArrival": true,
+    "rating": 4.5,
+    "reviews": 4
+  },
+  {
+    "id": "289",
+    "slug": "auxiliary-support-container",
+    "name": "Auxiliary Support Container",
+    "category": "Shipping Containers",
+    "categorySlug": "shipping-containers",
+    "images": [
+      "images/auxiliary-support-container.jpg",
+      "images/auxiliary-support-container-2.jpg"
+    ],
+    "price": 5100,
+    "onSale": false,
+    "isVariable": false,
+    "description": "Multipurpose auxiliary support container for site storage, technical equipment, or temporary workspace expansion. Heavy-duty construction with secure side access.",
+    "inStock": true,
+    "sku": "HSC-0289",
+    "featured": false,
+    "newArrival": true,
+    "rating": 4.7,
+    "reviews": 2
+  },
+  {
+    "id": "290",
+    "slug": "open-side-access-storage-container",
+    "name": "Open Side Access Storage Container",
+    "category": "Shipping Containers",
+    "categorySlug": "shipping-containers",
+    "images": [
+      "images/open-side-storage-container.jpg",
+      "images/open-side-storage-container-2.jpg"
+    ],
+    "price": 6200,
+    "onSale": false,
+    "isVariable": false,
+    "description": "Open side access storage container with reinforced frame for easy loading and unloading. Great for bulk goods, distribution centers, and busy worksites.",
+    "inStock": true,
+    "sku": "HSC-0290",
+    "featured": false,
+    "newArrival": true,
+    "rating": 4.6,
+    "reviews": 3
+  },
+  {
+    "id": "291",
+    "slug": "site-cabin-external-access-platform",
+    "name": "Site Cabin External Access Platform",
+    "category": "Site Cabins & Offices",
+    "categorySlug": "site-cabins-offices",
+    "images": [
+      "images/site-cabin-access-platform.jpg",
+      "images/site-cabin-access-platform-2.jpg"
+    ],
+    "price": 3650,
+    "onSale": false,
+    "isVariable": false,
+    "description": "External access platform for site cabins and portable offices. Includes staircase, landing, handrails and weatherproof finish for reliable daily use.",
+    "inStock": true,
+    "sku": "HSC-0291",
+    "featured": false,
+    "newArrival": true,
+    "rating": 4.7,
+    "reviews": 4
+  }
 ]
